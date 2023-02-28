@@ -1,4 +1,4 @@
-7342
+7601
 78C:\Users\user\Desktop\middleFrontend\parcel\node_modules\union-value\README.md132717959325850000 0
 106C:\Users\user\Desktop\middleFrontend\parcel\node_modules\htmlnano\lib\modules\collapseBooleanAttributes.js133220817838070000 0
 69C:\Users\user\Desktop\middleFrontend\parcel\node_modules\ansi-bggreen133220834055417062 1
@@ -19,11 +19,18 @@
 79C:\Users\user\Desktop\middleFrontend\parcel\node_modules\parent-module\index.js133220834028950000 0
 107C:\Users\user\Desktop\middleFrontend\parcel\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\intro.doc133220817839960000 0
 65C:\Users\user\Desktop\middleFrontend\parcel\node_modules\svgo\lib133220817939411504 1
-54C:\Users\user\Desktop\middleFrontend\parcel\.gitignore133220845789221036 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\33133220867330787393 1
+54C:\Users\user\Desktop\middleFrontend\parcel\.gitignore133220867991088117 0
 113C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\package-manager\test\fixtures\empty\package.json133220817820340000 0
 117C:\Users\user\Desktop\middleFrontend\parcel\node_modules\posthtml\node_modules\posthtml-parser\dist\chunk.2UQLUWPH.js133220817838670000 0
 71C:\Users\user\Desktop\middleFrontend\parcel\node_modules\lmdb\README.md133220817839960000 0
-48C:\Users\user\Desktop\middleFrontend\parcel\dist133220866342772905 1
+48C:\Users\user\Desktop\middleFrontend\parcel\dist133220883836082466 1
+97C:\Users\user\Desktop\middleFrontend\parcel\node_modules\relative\node_modules\isobject\README.md132717959334030000 0
+71C:\Users\user\Desktop\middleFrontend\parcel\node_modules\domelementtype133220817925711509 1
+102C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\input-minlength.js133220817841080000 0
+94C:\Users\user\Desktop\middleFrontend\parcel\node_modules\terser\node_modules\commander\LICENSE132717959231160000 0
+91C:\Users\user\Desktop\middleFrontend\parcel\node_modules\moment\src\lib\locale\prototype.js133220834028980000 0
+50C:\Users\user\Desktop\middleFrontend\parcel\.cache133220867331917421 1
 90C:\Users\user\Desktop\middleFrontend\parcel\node_modules\postcss-value-parser\lib\parse.js132929312770080000 0
 53C:\Users\user\Desktop\middleFrontend\parcel\.parcelrc133220834452238291 0
 105C:\Users\user\Desktop\middleFrontend\parcel\node_modules\split-string\node_modules\extend-shallow\LICENSE132717959233890000 0
@@ -38,7 +45,7 @@
 90C:\Users\user\Desktop\middleFrontend\parcel\node_modules\update-browserslist-db\index.d.ts133138438265660000 0
 81C:\Users\user\Desktop\middleFrontend\parcel\node_modules\moment\dist\locale\mi.js133220834028980000 0
 101C:\Users\user\Desktop\middleFrontend\parcel\node_modules\get-object\node_modules\isobject\LICENSE-MIT133220834028500000 0
-56C:\Users\user\Desktop\middleFrontend\parcel\netlify.toml133220853093196988 0
+56C:\Users\user\Desktop\middleFrontend\parcel\netlify.toml133220881026879954 0
 80C:\Users\user\Desktop\middleFrontend\parcel\node_modules\moment\src\locale\bs.js133220834028980000 0
 56C:\Users\user\Desktop\middleFrontend\parcel\node_modules133220834084107074 1
 114C:\Users\user\Desktop\middleFrontend\parcel\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\050-modules.md133220817838070000 0
@@ -48,7 +55,7 @@
 77C:\Users\user\Desktop\middleFrontend\parcel\node_modules\msgpackr\unpack.d.ts133220817833580000 0
 53C:\Users\user\Desktop\middleFrontend\parcel\yarn.lock133220834084367053 0
 120C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\core\test\fixtures\invalid-source-not-file\src\index.js133220817820360000 0
-56C:\Users\user\Desktop\middleFrontend\parcel\src\index.js133220821202123583 0
+56C:\Users\user\Desktop\middleFrontend\parcel\src\index.js133220876571261163 0
 74C:\Users\user\Desktop\middleFrontend\parcel\node_modules\terser\lib\ast.js133220817837360000 0
 84C:\Users\user\Desktop\middleFrontend\parcel\node_modules\highlight.js\scss\dark.scss133220834029050000 0
 97C:\Users\user\Desktop\middleFrontend\parcel\node_modules\css-what\lib\commonjs\stringify.d.ts.map132943100116980000 0
@@ -74,9 +81,6 @@
 69C:\Users\user\Desktop\middleFrontend\parcel\node_modules\error-symbol133220834056957071 1
 74C:\Users\user\Desktop\middleFrontend\parcel\node_modules\minimatch\LICENSE132929312723650000 0
 62C:\Users\user\Desktop\middleFrontend\parcel\src\modules\sum.js133220820603750029 0
-98C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\core\lib\requests\AssetRequest.js133220817820360000 0
-69C:\Users\user\Desktop\middleFrontend\parcel\node_modules\array-unique133220834056127057 1
-81C:\Users\user\Desktop\middleFrontend\parcel\node_modules\neo-async\filterLimit.js132717959172730000 0
 97C:\Users\user\Desktop\middleFrontend\parcel\node_modules\yaml\browser\dist\PlainValue-b8036b75.js132929312756320000 0
 84C:\Users\user\Desktop\middleFrontend\parcel\node_modules\dom-serializer\lib\index.js132943100118550000 0
 106C:\Users\user\Desktop\middleFrontend\parcel\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\module.c133220817839960000 0
@@ -89,6 +93,7 @@
 61C:\Users\user\Desktop\middleFrontend\parcel\node_modules\.bin133220834081787058 1
 65C:\Users\user\Desktop\middleFrontend\parcel\node_modules\ansi-dim133220834055557049 1
 124C:\Users\user\Desktop\middleFrontend\parcel\node_modules\handlebars\dist\cjs\handlebars\internal\create-new-lookup-object.js132929312678100000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\02133220867330367384 1
 74C:\Users\user\Desktop\middleFrontend\parcel\node_modules\lmdb\src\misc.cpp133220817839960000 0
 106C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@babel\helper-validator-identifier\lib\keyword.js133087560671520000 0
 88C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\regions\CF.js133220817841080000 0
@@ -348,7 +353,7 @@
 76C:\Users\user\Desktop\middleFrontend\parcel\node_modules\moment\locale\hi.js133220834028980000 0
 71C:\Users\user\Desktop\middleFrontend\parcel\node_modules\year\README.md133220834028620000 0
 88C:\Users\user\Desktop\middleFrontend\parcel\node_modules\highlight.js\docs\reference.rst133220834029050000 0
-70C:\Users\user\Desktop\middleFrontend\parcel\dist\index.975ef6c8.js.map133220866342762894 0
+70C:\Users\user\Desktop\middleFrontend\parcel\dist\index.975ef6c8.js.map133220883836072464 0
 103C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\css-font-stretch.js133220817841080000 0
 66C:\Users\user\Desktop\middleFrontend\parcel\node_modules\ansi-wrap133220834055787058 1
 91C:\Users\user\Desktop\middleFrontend\parcel\node_modules\type-fest\source\set-required.d.ts132826768614760000 0
@@ -370,6 +375,9 @@
 77C:\Users\user\Desktop\middleFrontend\parcel\node_modules\parse-json\readme.md132717959263010000 0
 85C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\workers\lib\Trace.js133220817839660000 0
 67C:\Users\user\Desktop\middleFrontend\parcel\node_modules\array-uniq133220834056097065 1
+98C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\core\lib\requests\AssetRequest.js133220817820360000 0
+69C:\Users\user\Desktop\middleFrontend\parcel\node_modules\array-unique133220834056127057 1
+81C:\Users\user\Desktop\middleFrontend\parcel\node_modules\neo-async\filterLimit.js132717959172730000 0
 76C:\Users\user\Desktop\middleFrontend\parcel\node_modules\moment\locale\ms.js133220834028980000 0
 79C:\Users\user\Desktop\middleFrontend\parcel\node_modules\util-deprecate\LICENSE132717959267280000 0
 71C:\Users\user\Desktop\middleFrontend\parcel\node_modules\assign-symbols133220834056137057 1
@@ -404,6 +412,7 @@
 63C:\Users\user\Desktop\middleFrontend\parcel\node_modules\base-x133220834048557068 1
 80C:\Users\user\Desktop\middleFrontend\parcel\node_modules\htmlnano\lib\helpers.js133220817838070000 0
 65C:\Users\user\Desktop\middleFrontend\parcel\node_modules\boolbase133220817925161515 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\b7133220867331597390 1
 79C:\Users\user\Desktop\middleFrontend\parcel\node_modules\moment\locale\en-nz.js133220834028980000 0
 72C:\Users\user\Desktop\middleFrontend\parcel\node_modules\brace-expansion133220834056407077 1
 78C:\Users\user\Desktop\middleFrontend\parcel\node_modules\safe-buffer\README.md132717959184370000 0
@@ -590,10 +599,6 @@
 99C:\Users\user\Desktop\middleFrontend\parcel\node_modules\svgo\plugins\removeUselessStrokeAndFill.js132929317691640000 0
 67C:\Users\user\Desktop\middleFrontend\parcel\node_modules\is-windows133220834058387058 1
 109C:\Users\user\Desktop\middleFrontend\parcel\node_modules\define-property\node_modules\is-descriptor\README.md132717959309160000 0
-97C:\Users\user\Desktop\middleFrontend\parcel\node_modules\relative\node_modules\isobject\README.md132717959334030000 0
-71C:\Users\user\Desktop\middleFrontend\parcel\node_modules\domelementtype133220817925711509 1
-102C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\input-minlength.js133220817841080000 0
-94C:\Users\user\Desktop\middleFrontend\parcel\node_modules\terser\node_modules\commander\LICENSE132717959231160000 0
 101C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\transformer-html\src\dependencies.js133220817828860000 0
 67C:\Users\user\Desktop\middleFrontend\parcel\node_modules\domhandler133220817925671540 1
 76C:\Users\user\Desktop\middleFrontend\parcel\node_modules\uglify-js\README.md133220834025130000 0
@@ -649,6 +654,7 @@
 80C:\Users\user\Desktop\middleFrontend\parcel\node_modules\source-map\CHANGELOG.md132717959073480000 0
 83C:\Users\user\Desktop\middleFrontend\parcel\node_modules\string_decoder\.travis.yml132717959280680000 0
 71C:\Users\user\Desktop\middleFrontend\parcel\node_modules\srcset\license133220817843720000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\f8133220867331867409 1
 87C:\Users\user\Desktop\middleFrontend\parcel\node_modules\type-fest\ts41\kebab-case.d.ts132826768614760000 0
 80C:\Users\user\Desktop\middleFrontend\parcel\node_modules\moment\src\locale\tg.js133220834028980000 0
 75C:\Users\user\Desktop\middleFrontend\parcel\node_modules\msgpackr\struct.js133220817833580000 0
@@ -684,6 +690,7 @@
 94C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\workers\test\cpuCount.test.js133220817839660000 0
 91C:\Users\user\Desktop\middleFrontend\parcel\node_modules\cosmiconfig\dist\readFile.d.ts.map133138438257270000 0
 71C:\Users\user\Desktop\middleFrontend\parcel\node_modules\fs-exists-sync133220834057197121 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\ec133220867331797420 1
 102C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\dist\unpacker\browserVersions.js133220817841080000 0
 83C:\Users\user\Desktop\middleFrontend\parcel\node_modules\moment\src\locale\ar-ly.js133220834028980000 0
 83C:\Users\user\Desktop\middleFrontend\parcel\node_modules\require-glob\test\fixtures133220834071807051 1
@@ -695,6 +702,7 @@
 94C:\Users\user\Desktop\middleFrontend\parcel\node_modules\js-yaml\lib\js-yaml\type\js\regexp.js132717959139100000 0
 101C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\runtime-js\lib\helpers\bundle-url.js133220817825470000 0
 76C:\Users\user\Desktop\middleFrontend\parcel\node_modules\moment\locale\de.js133220834028980000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\77133220867331277398 1
 65C:\Users\user\Desktop\middleFrontend\parcel\node_modules\get-port133220817926061513 1
 69C:\Users\user\Desktop\middleFrontend\parcel\node_modules\lmdb\read.js133220817839960000 0
 111C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\runtime-browser-hmr\src\loaders\.eslintrc.json133220817825900000 0
@@ -726,6 +734,7 @@
 79C:\Users\user\Desktop\middleFrontend\parcel\node_modules\moment\locale\ar-kw.js133220834028980000 0
 63C:\Users\user\Desktop\middleFrontend\parcel\node_modules\globby133220834057477070 1
 76C:\Users\user\Desktop\middleFrontend\parcel\node_modules\has-value\README.md132717959325560000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\9a133220867331457401 1
 76C:\Users\user\Desktop\middleFrontend\parcel\node_modules\moment\locale\sl.js133220834028980000 0
 69C:\Users\user\Desktop\middleFrontend\parcel\node_modules\lmdb\keys.js133220817839960000 0
 77C:\Users\user\Desktop\middleFrontend\parcel\node_modules\union-value\index.js132717959325850000 0
@@ -754,14 +763,12 @@
 84C:\Users\user\Desktop\middleFrontend\parcel\node_modules\svgo\plugins\mergeStyles.js132929317691640000 0
 79C:\Users\user\Desktop\middleFrontend\parcel\node_modules\fragment-cache\LICENSE132717959234310000 0
 76C:\Users\user\Desktop\middleFrontend\parcel\node_modules\safe-regex\index.js132717959281850000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\71133220867331237412 1
 83C:\Users\user\Desktop\middleFrontend\parcel\node_modules\concat-map\README.markdown132717959267870000 0
 75C:\Users\user\Desktop\middleFrontend\parcel\node_modules\handlebars-layouts133220834057897035 1
 91C:\Users\user\Desktop\middleFrontend\parcel\node_modules\highlight.js\lib\languages\bash.js133220834029050000 0
 84C:\Users\user\Desktop\middleFrontend\parcel\node_modules\domutils\lib\stringify.d.ts132929312818780000 0
 73C:\Users\user\Desktop\middleFrontend\parcel\node_modules\handlebars-utils133220834057687069 1
-76C:\Users\user\Desktop\middleFrontend\parcel\node_modules\moment\locale\tk.js133220834028980000 0
-82C:\Users\user\Desktop\middleFrontend\parcel\node_modules\dotenv-expand\lib\main.js132717959096480000 0
-81C:\Users\user\Desktop\middleFrontend\parcel\node_modules\moment\dist\locale\gl.js133220834028980000 0
 66C:\Users\user\Desktop\middleFrontend\parcel\node_modules\has-value133220834057757069 1
 123C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@anikin\parcel-transformer-handlebars\node_modules\.bin\handlebars133220834075047054 0
 81C:\Users\user\Desktop\middleFrontend\parcel\node_modules\domelementtype\readme.md132943100117950000 0
@@ -771,6 +778,7 @@
 105C:\Users\user\Desktop\middleFrontend\parcel\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb133220817952381533 1
 108C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\dom-manip-convenience.js133220817841080000 0
 92C:\Users\user\Desktop\middleFrontend\parcel\node_modules\svgo\plugins\removeEditorsNSData.js132929317691640000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\2c133220867330747390 1
 80C:\Users\user\Desktop\middleFrontend\parcel\node_modules\ansi-reset\package.json133220834036710000 0
 91C:\Users\user\Desktop\middleFrontend\parcel\node_modules\css-tree\lib\syntax\scope\index.js132929317690590000 0
 96C:\Users\user\Desktop\middleFrontend\parcel\node_modules\require-glob\test\fixtures\deep\a\a2.js133220834026450000 0
@@ -783,6 +791,7 @@
 76C:\Users\user\Desktop\middleFrontend\parcel\node_modules\moment\locale\nn.js133220834028980000 0
 82C:\Users\user\Desktop\middleFrontend\parcel\node_modules\snapdragon-node\README.md132717959281080000 0
 82C:\Users\user\Desktop\middleFrontend\parcel\node_modules\front-matter\node_modules133220834078167064 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\f7133220867331857393 1
 96C:\Users\user\Desktop\middleFrontend\parcel\node_modules\node-gyp-build-optional-packages\bin.js133220817859000000 0
 105C:\Users\user\Desktop\middleFrontend\parcel\node_modules\htmlnano\lib\modules\normalizeAttributeValues.js133220817838070000 0
 93C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\core\lib\UncommittedAsset.js133220817820360000 0
@@ -797,6 +806,7 @@
 83C:\Users\user\Desktop\middleFrontend\parcel\node_modules\highlight.js\scss\gml.scss133220834029050000 0
 112C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\mdn-text-decoration-style.js133220817841080000 0
 63C:\Users\user\Desktop\middleFrontend\parcel\node_modules\wrappy133220834063177081 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\28133220867330717406 1
 97C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@swc\helpers\lib\_to_consumable_array.js133147387018750000 0
 69C:\Users\user\Desktop\middleFrontend\parcel\node_modules\import-fresh133220834048907081 1
 91C:\Users\user\Desktop\middleFrontend\parcel\node_modules\highlight.js\lib\languages\pony.js133220834029050000 0
@@ -807,12 +817,14 @@
 100C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\mediarecorder.js133220817841080000 0
 65C:\Users\user\Desktop\middleFrontend\parcel\node_modules\inflight133220834058027058 1
 72C:\Users\user\Desktop\middleFrontend\parcel\node_modules\yaml\types.d.ts132929312756320000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\9f133220867331477407 1
 71C:\Users\user\Desktop\middleFrontend\parcel\node_modules\lmdb\native.js133220817839960000 0
 102C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@swc\helpers\lib\_class_private_field_init.js133147387018750000 0
 68C:\Users\user\Desktop\middleFrontend\parcel\node_modules\info-symbol133220834058077058 1
 112C:\Users\user\Desktop\middleFrontend\parcel\node_modules\define-property\node_modules\is-descriptor\package.json132717959309160000 0
 90C:\Users\user\Desktop\middleFrontend\parcel\node_modules\source-map\dist\source-map.min.js132717959073480000 0
 79C:\Users\user\Desktop\middleFrontend\parcel\node_modules\is-accessor-descriptor133220834058097044 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\2f133220867330767422 1
 88C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\regions\SD.js133220817841080000 0
 75C:\Users\user\Desktop\middleFrontend\parcel\node_modules\moment\dist\locale133220834070917056 1
 80C:\Users\user\Desktop\middleFrontend\parcel\node_modules\weak-lru-cache\index.js133220817862990000 0
@@ -846,6 +858,7 @@
 68C:\Users\user\Desktop\middleFrontend\parcel\node_modules\ms\index.js132717959207170000 0
 65C:\Users\user\Desktop\middleFrontend\parcel\node_modules\csso\lib133220817933711511 1
 80C:\Users\user\Desktop\middleFrontend\parcel\node_modules\safe-regex\package.json132717959281850000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\a0133220867331487390 1
 64C:\Users\user\Desktop\middleFrontend\parcel\node_modules\is-glob133220817926341537 1
 64C:\Users\user\Desktop\middleFrontend\parcel\node_modules\is-json133220817926311512 1
 87C:\Users\user\Desktop\middleFrontend\parcel\node_modules\htmlparser2\lib\Tokenizer.d.ts133220817857910000 0
@@ -877,6 +890,7 @@
 92C:\Users\user\Desktop\middleFrontend\parcel\node_modules\highlight.js\lib\languages\clean.js133220834029050000 0
 90C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\core\lib\public\Bundle.js133220817820360000 0
 64C:\Users\user\Desktop\middleFrontend\parcel\node_modules\isarray133220834058497077 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\3f133220867330857392 1
 97C:\Users\user\Desktop\middleFrontend\parcel\node_modules\css-tree\lib\syntax\node\MediaFeature.js132929317690590000 0
 96C:\Users\user\Desktop\middleFrontend\parcel\node_modules\utility-types\dist\utility-types.js.map133220817843810000 0
 97C:\Users\user\Desktop\middleFrontend\parcel\node_modules\highlight.js\lib\languages\properties.js133220834029050000 0
@@ -884,6 +898,7 @@
 79C:\Users\user\Desktop\middleFrontend\parcel\node_modules\uglify-js\tools\tty.js133220834025130000 0
 65C:\Users\user\Desktop\middleFrontend\parcel\node_modules\isobject133220834058577044 1
 94C:\Users\user\Desktop\middleFrontend\parcel\node_modules\utility-types\dist\utility-types.d.ts133220817843810000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\3e133220867330847404 1
 97C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\runtime-browser-hmr\package.json133220817825900000 0
 80C:\Users\user\Desktop\middleFrontend\parcel\node_modules\moment\src\locale\uz.js133220834028980000 0
 97C:\Users\user\Desktop\middleFrontend\parcel\node_modules\utility-types\dist\aliases-and-guards.js133220817843810000 0
@@ -1076,9 +1091,11 @@
 84C:\Users\user\Desktop\middleFrontend\parcel\node_modules\neo-async\forEachOfLimit.js132717959172730000 0
 97C:\Users\user\Desktop\middleFrontend\parcel\node_modules\type-fest\source\fixed-length-array.d.ts132826768614760000 0
 106C:\Users\user\Desktop\middleFrontend\parcel\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest2.c133220817839960000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\4f133220867331007417 1
 100C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\markdown-ansi\test\markdown-ansi.js133220817840640000 0
 113C:\Users\user\Desktop\middleFrontend\parcel\node_modules\unset-value\node_modules\has-value\node_modules\isobject133220834063377062 1
 73C:\Users\user\Desktop\middleFrontend\parcel\node_modules\path-is-absolute133220834060157068 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\34133220867330797403 1
 99C:\Users\user\Desktop\middleFrontend\parcel\node_modules\get-object\node_modules\is-number\index.js133087569762780000 0
 89C:\Users\user\Desktop\middleFrontend\parcel\node_modules\yaml\dist\PlainValue-ec8e588e.js132929312756320000 0
 79C:\Users\user\Desktop\middleFrontend\parcel\node_modules\color-convert\route.js132717959075550000 0
@@ -1087,6 +1104,7 @@
 72C:\Users\user\Desktop\middleFrontend\parcel\node_modules\posthtml-render133220817931481505 1
 86C:\Users\user\Desktop\middleFrontend\parcel\node_modules\moment\src\locale\tzm-latn.js133220834028980000 0
 84C:\Users\user\Desktop\middleFrontend\parcel\node_modules\success-symbol\package.json133220834032380000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\5a133220867331087407 1
 66C:\Users\user\Desktop\middleFrontend\parcel\node_modules\picomatch133220817931351528 1
 106C:\Users\user\Desktop\middleFrontend\parcel\node_modules\htmlnano\lib\modules\minifyConditionalComments.js133220817838070000 0
 77C:\Users\user\Desktop\middleFrontend\parcel\node_modules\has-values\README.md132717959332270000 0
@@ -1204,10 +1222,12 @@
 72C:\Users\user\Desktop\middleFrontend\parcel\node_modules\yaml\index.d.ts132929312756320000 0
 91C:\Users\user\Desktop\middleFrontend\parcel\node_modules\css-tree\lib\syntax\atrule\page.js132929317690590000 0
 91C:\Users\user\Desktop\middleFrontend\parcel\node_modules\svgo\plugins\removeRasterImages.js132929317691640000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\f5133220867331847378 1
 76C:\Users\user\Desktop\middleFrontend\parcel\node_modules\moment\locale\dv.js133220834028980000 0
 78C:\Users\user\Desktop\middleFrontend\parcel\node_modules\neo-async\anyLimit.js132717959172730000 0
 71C:\Users\user\Desktop\middleFrontend\parcel\node_modules\warning-symbol133220834063137059 1
 70C:\Users\user\Desktop\middleFrontend\parcel\node_modules\static-extend133220834062077053 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\6f133220867331227408 1
 71C:\Users\user\Desktop\middleFrontend\parcel\node_modules\string_decoder133220834062267082 1
 88C:\Users\user\Desktop\middleFrontend\parcel\node_modules\moment\src\lib\units\quarter.js133220834028980000 0
 106C:\Users\user\Desktop\middleFrontend\parcel\node_modules\handlebars-helpers\node_modules\kind-of\README.md132717959228800000 0
@@ -1357,8 +1377,9 @@
 71C:\Users\user\Desktop\middleFrontend\parcel\node_modules\snapdragon\lib133220834068047055 1
 68C:\Users\user\Desktop\middleFrontend\parcel\node_modules\yaml\map.js132929312756320000 0
 81C:\Users\user\Desktop\middleFrontend\parcel\node_modules\moment\dist\locale\kn.js133220834028980000 0
-77C:\Users\user\Desktop\middleFrontend\parcel\node_modules\uglify-js\lib\ast.js133220834025130000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\1c133220867330657391 1
 69C:\Users\user\Desktop\middleFrontend\parcel\node_modules\yaml\pair.js132929312756320000 0
+77C:\Users\user\Desktop\middleFrontend\parcel\node_modules\uglify-js\lib\ast.js133220834025130000 0
 91C:\Users\user\Desktop\middleFrontend\parcel\node_modules\css-tree\lib\syntax\scope\value.js132929317690590000 0
 76C:\Users\user\Desktop\middleFrontend\parcel\node_modules\yaml\parse-cst.d.ts132929312756320000 0
 74C:\Users\user\Desktop\middleFrontend\parcel\node_modules\svgo\lib\types.ts132929317691640000 0
@@ -1387,6 +1408,7 @@
 105C:\Users\user\Desktop\middleFrontend\parcel\node_modules\split-string\node_modules\is-extendable\index.js132717959281530000 0
 88C:\Users\user\Desktop\middleFrontend\parcel\node_modules\highlight.js\styles\rainbow.css133220834029050000 0
 83C:\Users\user\Desktop\middleFrontend\parcel\node_modules\yaml\browser\types\omap.js132929312756320000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\3c133220867330837386 1
 95C:\Users\user\Desktop\middleFrontend\parcel\node_modules\moment\src\lib\duration\constructor.js133220834028980000 0
 77C:\Users\user\Desktop\middleFrontend\parcel\node_modules\yaml\types\binary.js132929312756320000 0
 86C:\Users\user\Desktop\middleFrontend\parcel\node_modules\moment\src\locale\gom-latn.js133220834028980000 0
@@ -1473,6 +1495,7 @@
 82C:\Users\user\Desktop\middleFrontend\parcel\node_modules\js-yaml\node_modules\.bin133220834079017073 1
 73C:\Users\user\Desktop\middleFrontend\parcel\node_modules\domutils\LICENSE132929312818780000 0
 90C:\Users\user\Desktop\middleFrontend\parcel\node_modules\process-nextick-args\package.json132717959280380000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\22133220867330687392 1
 98C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\core\test\fixtures\common-targets133220817951411528 1
 119C:\Users\user\Desktop\middleFrontend\parcel\node_modules\htmlnano\docs\versioned_docs\version-1.1.1\010-introduction.md133220817838070000 0
 101C:\Users\user\Desktop\middleFrontend\parcel\node_modules\highlight.js\scss\atelier-estuary-light.scss133220834029050000 0
@@ -1531,6 +1554,7 @@
 81C:\Users\user\Desktop\middleFrontend\parcel\node_modules\dotenv-expand\index.d.ts132717959096480000 0
 104C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\core\node_modules\.bin\browserslist.cmd133220834075297060 0
 99C:\Users\user\Desktop\middleFrontend\parcel\node_modules\utility-types\dist\aliases-and-guards.d.ts133220817843810000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\dd133220867331727387 1
 128C:\Users\user\Desktop\middleFrontend\parcel\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages.cmd133220834079567051 0
 91C:\Users\user\Desktop\middleFrontend\parcel\node_modules\cosmiconfig\dist\ExplorerBase.d.ts133138438257270000 0
 77C:\Users\user\Desktop\middleFrontend\parcel\node_modules\moment\ts3.1-typings133220834067807061 1
@@ -1587,6 +1611,7 @@
 88C:\Users\user\Desktop\middleFrontend\parcel\node_modules\highlight.js\scss\tomorrow.scss133220834029050000 0
 83C:\Users\user\Desktop\middleFrontend\parcel\node_modules\htmlnano\node_modules\.bin133220834078877073 1
 80C:\Users\user\Desktop\middleFrontend\parcel\node_modules\handlebars\package.json132929312678100000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\7a133220867331297411 1
 90C:\Users\user\Desktop\middleFrontend\parcel\node_modules\moment\src\lib\utils\abs-floor.js133220834028980000 0
 80C:\Users\user\Desktop\middleFrontend\parcel\node_modules\warning-symbol\index.js133220834033580000 0
 82C:\Users\user\Desktop\middleFrontend\parcel\node_modules\svgo\plugins\sortAttrs.js132929317691640000 0
@@ -1630,6 +1655,7 @@
 97C:\Users\user\Desktop\middleFrontend\parcel\node_modules\remarkable\lib\helpers\normalize_link.js133116739964150000 0
 87C:\Users\user\Desktop\middleFrontend\parcel\node_modules\css-what\lib\commonjs\types.js132943100116980000 0
 78C:\Users\user\Desktop\middleFrontend\parcel\node_modules\import-fresh\index.js132717959138780000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\e8133220867331787410 1
 89C:\Users\user\Desktop\middleFrontend\parcel\node_modules\moment\ts3.1-typings\moment.d.ts133220834028980000 0
 88C:\Users\user\Desktop\middleFrontend\parcel\node_modules\utility-types\dist\index.js.map133220817843810000 0
 92C:\Users\user\Desktop\middleFrontend\parcel\node_modules\utility-types\dist\utility-types.js133220817843810000 0
@@ -1661,6 +1687,7 @@
 89C:\Users\user\Desktop\middleFrontend\parcel\node_modules\handlebars-helpers\lib\number.js133220834025200000 0
 80C:\Users\user\Desktop\middleFrontend\parcel\node_modules\moment\locale\oc-lnc.js133220834028980000 0
 71C:\Users\user\Desktop\middleFrontend\parcel\node_modules\urix\.jshintrc132717959278100000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\da133220867331717388 1
 105C:\Users\user\Desktop\middleFrontend\parcel\node_modules\electron-to-chromium\full-chromium-versions.json133220817841830000 0
 78C:\Users\user\Desktop\middleFrontend\parcel\node_modules\svgo\lib\svgo-node.js132929317691640000 0
 69C:\Users\user\Desktop\middleFrontend\parcel\node_modules\urix\LICENSE132717959278100000 0
@@ -1746,6 +1773,7 @@
 79C:\Users\user\Desktop\middleFrontend\parcel\node_modules\uglify-js\bin\uglifyjs133220834025130000 0
 91C:\Users\user\Desktop\middleFrontend\parcel\node_modules\type-fest\ts41\delimiter-case.d.ts132826768614760000 0
 79C:\Users\user\Desktop\middleFrontend\parcel\node_modules\typeof-article\LICENSE133220834030680000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\bc133220867331617398 1
 107C:\Users\user\Desktop\middleFrontend\parcel\node_modules\to-regex\node_modules\define-property\CHANGELOG.md132717959233780000 0
 92C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\runtime-js\lib\JSRuntime.js133220817825470000 0
 106C:\Users\user\Desktop\middleFrontend\parcel\node_modules\split-string\node_modules\extend-shallow\index.js132717959233890000 0
@@ -1846,6 +1874,7 @@
 87C:\Users\user\Desktop\middleFrontend\parcel\node_modules\type-fest\source\value-of.d.ts132826768614760000 0
 75C:\Users\user\Desktop\middleFrontend\parcel\node_modules\css-select\LICENSE132943100113490000 0
 82C:\Users\user\Desktop\middleFrontend\parcel\node_modules\tslib\CopyrightNotice.txt133220817858050000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\be133220867331627394 1
 70C:\Users\user\Desktop\middleFrontend\parcel\node_modules\tslib\modules133220817939881527 1
 80C:\Users\user\Desktop\middleFrontend\parcel\node_modules\snapdragon-util\LICENSE132717959307430000 0
 70C:\Users\user\Desktop\middleFrontend\parcel\node_modules\svgo\bin\svgo132929317691640000 0
@@ -1866,6 +1895,7 @@
 84C:\Users\user\Desktop\middleFrontend\parcel\node_modules\to-regex-range\package.json132717959307420000 0
 82C:\Users\user\Desktop\middleFrontend\parcel\node_modules\is-arrayish\.editorconfig132717959316940000 0
 99C:\Users\user\Desktop\middleFrontend\parcel\node_modules\htmlnano\lib\modules\removeOptionalTags.js133220817838070000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\3a133220867330827393 1
 86C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@swc\helpers\lib\_ts_param.js133147387018750000 0
 81C:\Users\user\Desktop\middleFrontend\parcel\node_modules\to-regex-range\README.md132717959307420000 0
 79C:\Users\user\Desktop\middleFrontend\parcel\node_modules\to-object-path\LICENSE132717959325780000 0
@@ -1896,6 +1926,7 @@
 128C:\Users\user\Desktop\middleFrontend\parcel\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\index.js133220817859100000 0
 83C:\Users\user\Desktop\middleFrontend\parcel\node_modules\object-assign\package.json132717959086560000 0
 103C:\Users\user\Desktop\middleFrontend\parcel\node_modules\to-regex\node_modules\is-extendable\index.d.ts132717959281530000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\af133220867331567398 1
 76C:\Users\user\Desktop\middleFrontend\parcel\node_modules\resolve-url\LICENSE132717959306690000 0
 101C:\Users\user\Desktop\middleFrontend\parcel\node_modules\to-regex\node_modules\is-extendable\index.js132717959281530000 0
 105C:\Users\user\Desktop\middleFrontend\parcel\node_modules\to-regex\node_modules\is-extendable\package.json132717959281530000 0
@@ -2014,6 +2045,7 @@
 72C:\Users\user\Desktop\middleFrontend\parcel\node_modules\for-own\LICENSE133220834025260000 0
 75C:\Users\user\Desktop\middleFrontend\parcel\node_modules\path-type\index.js132717959263110000 0
 77C:\Users\user\Desktop\middleFrontend\parcel\node_modules\terser\lib\minify.js133220817837360000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\b1133220867331577404 1
 83C:\Users\user\Desktop\middleFrontend\parcel\node_modules\safe-regex\example\safe.js132717959281850000 0
 77C:\Users\user\Desktop\middleFrontend\parcel\node_modules\object-copy\index.js132717959332390000 0
 82C:\Users\user\Desktop\middleFrontend\parcel\node_modules\ordered-binary\index.d.ts133220817861700000 0
@@ -2031,6 +2063,7 @@
 96C:\Users\user\Desktop\middleFrontend\parcel\node_modules\terser\lib\compress\compressor-flags.js133220817837360000 0
 70C:\Users\user\Desktop\middleFrontend\parcel\node_modules\escalade\dist133220817934701533 1
 78C:\Users\user\Desktop\middleFrontend\parcel\node_modules\date.js\lib\symbol.js133220834030930000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\d5133220867331697388 1
 93C:\Users\user\Desktop\middleFrontend\parcel\node_modules\remarkable\lib\rules_core\linkify.js133116739964150000 0
 101C:\Users\user\Desktop\middleFrontend\parcel\node_modules\terser\lib\compress\drop-side-effect-free.js133220817837360000 0
 85C:\Users\user\Desktop\middleFrontend\parcel\node_modules\highlight.js\styles\idea.css133220834029050000 0
@@ -2077,6 +2110,7 @@
 81C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\packager-css\lib133220817937781516 1
 85C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\utils\src\urlJoin.js133220817823510000 0
 78C:\Users\user\Desktop\middleFrontend\parcel\node_modules\svgo\lib\css-tools.js132929317691640000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\f4133220867331837398 1
 74C:\Users\user\Desktop\middleFrontend\parcel\node_modules\boolbase\index.js132717959291860000 0
 66C:\Users\user\Desktop\middleFrontend\parcel\node_modules\json5\lib133220817934891505 1
 69C:\Users\user\Desktop\middleFrontend\parcel\node_modules\svgo\LICENSE132929317691640000 0
@@ -2151,8 +2185,8 @@
 79C:\Users\user\Desktop\middleFrontend\parcel\node_modules\moment\locale\en-il.js133220834028980000 0
 90C:\Users\user\Desktop\middleFrontend\parcel\node_modules\svgo\plugins\removeHiddenElems.js132929317691640000 0
 106C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@swc\helpers\lib\_define_enumerable_properties.js133147387018750000 0
-92C:\Users\user\Desktop\middleFrontend\parcel\node_modules\svgo\plugins\removeScriptElement.js132929317691640000 0
 79C:\Users\user\Desktop\middleFrontend\parcel\node_modules\require-glob\README.md133220834026450000 0
+92C:\Users\user\Desktop\middleFrontend\parcel\node_modules\svgo\plugins\removeScriptElement.js132929317691640000 0
 91C:\Users\user\Desktop\middleFrontend\parcel\node_modules\svgo\plugins\removeStyleElement.js132929317691640000 0
 86C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\utils\src\debounce.js133220817823510000 0
 88C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\regions\MD.js133220817841080000 0
@@ -2201,6 +2235,7 @@
 81C:\Users\user\Desktop\middleFrontend\parcel\node_modules\svgo\lib\svgo\plugins.js132929317691640000 0
 81C:\Users\user\Desktop\middleFrontend\parcel\node_modules\neo-async\eachOfLimit.js132717959172730000 0
 88C:\Users\user\Desktop\middleFrontend\parcel\node_modules\lmdb\util\set-optional-deps.cjs133220817839960000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\fc133220867331897393 1
 104C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\watcher\src\shared\BruteForceBackend.cc133220817834440000 0
 79C:\Users\user\Desktop\middleFrontend\parcel\node_modules\svgo\lib\svgo\tools.js132929317691640000 0
 75C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\events\lib133220817935851542 1
@@ -2244,8 +2279,10 @@
 74C:\Users\user\Desktop\middleFrontend\parcel\node_modules\srcset\index.d.ts133220817843720000 0
 86C:\Users\user\Desktop\middleFrontend\parcel\node_modules\source-map-support\LICENSE.md132929312717390000 0
 76C:\Users\user\Desktop\middleFrontend\parcel\node_modules\srcset\package.json133220817843720000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\83133220867331337406 1
 73C:\Users\user\Desktop\middleFrontend\parcel\node_modules\srcset\readme.md133220817843720000 0
 106C:\Users\user\Desktop\middleFrontend\parcel\node_modules\handlebars\dist\amd\handlebars\compiler\parser.js132929312678100000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\a2133220867331507400 1
 78C:\Users\user\Desktop\middleFrontend\parcel\node_modules\sprintf-js\bower.json132717959267850000 0
 106C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\transformer-babel\node_modules\.bin\json5133220834076987093 0
 93C:\Users\user\Desktop\middleFrontend\parcel\node_modules\dom-serializer\lib\foreignNames.d.ts132943100118550000 0
@@ -2289,6 +2326,7 @@
 80C:\Users\user\Desktop\middleFrontend\parcel\node_modules\nullthrows\package.json133220817834040000 0
 97C:\Users\user\Desktop\middleFrontend\parcel\node_modules\remarkable\lib\rules_block\blockquote.js133116739964150000 0
 104C:\Users\user\Desktop\middleFrontend\parcel\node_modules\split-string\node_modules\is-extendable\LICENSE132717959281530000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\4e133220867330997418 1
 97C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\source-map\parcel_sourcemap_wasm133220817923131558 1
 109C:\Users\user\Desktop\middleFrontend\parcel\node_modules\split-string\node_modules\is-extendable\package.json132717959281530000 0
 81C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\transformer-html133220834077157068 1
@@ -2328,6 +2366,7 @@
 106C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\link-rel-preconnect.js133220817841080000 0
 104C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\chacha20-poly1305.js133220817841080000 0
 97C:\Users\user\Desktop\middleFrontend\parcel\node_modules\source-map-resolve\source-map-resolve.js132717959277970000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\40133220867330867388 1
 73C:\Users\user\Desktop\middleFrontend\parcel\node_modules\neo-async\any.js132717959172730000 0
 103C:\Users\user\Desktop\middleFrontend\parcel\node_modules\handlebars\dist\cjs\handlebars\helpers\with.js132929312678100000 0
 93C:\Users\user\Desktop\middleFrontend\parcel\node_modules\source-map-resolve\node_modules\.bin133220834079777065 1
@@ -2398,6 +2437,7 @@
 118C:\Users\user\Desktop\middleFrontend\parcel\node_modules\snapdragon\node_modules\source-map\dist\source-map.min.js.map132717959120030000 0
 88C:\Users\user\Desktop\middleFrontend\parcel\node_modules\highlight.js\styles\zenburn.css133220834029050000 0
 83C:\Users\user\Desktop\middleFrontend\parcel\node_modules\snapdragon\lib\compiler.js132717959234460000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\0b133220867330547406 1
 101C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@babel\helper-validator-identifier\README.md133087560671520000 0
 81C:\Users\user\Desktop\middleFrontend\parcel\node_modules\snapdragon\lib\parser.js132717959234460000 0
 88C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\regions\PK.js133220817841080000 0
@@ -2416,6 +2456,7 @@
 94C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\utils\test\collection.test.js133220817823510000 0
 98C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\typedarrays.js133220817841080000 0
 77C:\Users\user\Desktop\middleFrontend\parcel\node_modules\set-getter\README.md133220834030810000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\b3133220867331587384 1
 95C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\datalist.js133220817841080000 0
 67C:\Users\user\Desktop\middleFrontend\parcel\node_modules\semver\bin133220817939141529 1
 93C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\codeframe\test\fixtures\a.js133220817844610000 0
@@ -2625,6 +2666,7 @@
 91C:\Users\user\Desktop\middleFrontend\parcel\node_modules\remarkable\lib\rules_block\list.js133116739964150000 0
 83C:\Users\user\Desktop\middleFrontend\parcel\node_modules\htmlnano\docs\netlify.toml133220817838070000 0
 96C:\Users\user\Desktop\middleFrontend\parcel\node_modules\remarkable\lib\rules_block\paragraph.js133116739964150000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\64133220867331147411 1
 81C:\Users\user\Desktop\middleFrontend\parcel\node_modules\moment\dist\locale\mt.js133220834028980000 0
 100C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\ambient-light.js133220817841080000 0
 79C:\Users\user\Desktop\middleFrontend\parcel\node_modules\msgpackr\node-index.js133220817833580000 0
@@ -2649,6 +2691,7 @@
 89C:\Users\user\Desktop\middleFrontend\parcel\node_modules\abortcontroller-polyfill\LICENSE133220817830550000 0
 79C:\Users\user\Desktop\middleFrontend\parcel\node_modules\create-frame\README.md133220834026480000 0
 104C:\Users\user\Desktop\middleFrontend\parcel\node_modules\handlebars-helpers\node_modules\.bin\handlebars133220834078387066 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\de133220867331727387 1
 96C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\vibration.js133220817841080000 0
 75C:\Users\user\Desktop\middleFrontend\parcel\node_modules\relative\README.md133220834029580000 0
 93C:\Users\user\Desktop\middleFrontend\parcel\node_modules\highlight.js\lib\languages\step21.js133220834029050000 0
@@ -2805,11 +2848,13 @@
 83C:\Users\user\Desktop\middleFrontend\parcel\node_modules\moment\src\locale\ms-my.js133220834028980000 0
 99C:\Users\user\Desktop\middleFrontend\parcel\node_modules\posthtml\node_modules\posthtml-parser\dist133220817940391522 1
 102C:\Users\user\Desktop\middleFrontend\parcel\node_modules\posthtml\node_modules\posthtml-parser\license133220817838670000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\88133220867331367411 1
 107C:\Users\user\Desktop\middleFrontend\parcel\node_modules\posthtml\node_modules\posthtml-parser\package.json133220817838670000 0
 104C:\Users\user\Desktop\middleFrontend\parcel\node_modules\posthtml\node_modules\posthtml-parser\readme.md133220817838670000 0
 102C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\abortcontroller.js133220817841080000 0
 90C:\Users\user\Desktop\middleFrontend\parcel\node_modules\css-tree\lib\syntax\pseudo\has.js132929317690590000 0
 84C:\Users\user\Desktop\middleFrontend\parcel\node_modules\helper-md\node_modules\.bin133220834078687047 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\85133220867331347409 1
 108C:\Users\user\Desktop\middleFrontend\parcel\node_modules\posthtml\node_modules\posthtml-parser\dist\index.js133220817838670000 0
 80C:\Users\user\Desktop\middleFrontend\parcel\node_modules\moment\src\lib\duration133220834072957057 1
 119C:\Users\user\Desktop\middleFrontend\parcel\node_modules\posthtml\node_modules\posthtml-parser\dist\location-tracker.js133220817838670000 0
@@ -2827,6 +2872,7 @@
 87C:\Users\user\Desktop\middleFrontend\parcel\node_modules\postcss-value-parser\README.md132929312770080000 0
 81C:\Users\user\Desktop\middleFrontend\parcel\node_modules\moment\dist\locale\uz.js133220834028980000 0
 90C:\Users\user\Desktop\middleFrontend\parcel\node_modules\dom-serializer\lib\index.d.ts.map132943100118550000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\ba133220867331617398 1
 106C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\transformer-image\src\ImageTransformer.js133220817829150000 0
 92C:\Users\user\Desktop\middleFrontend\parcel\node_modules\postcss-value-parser\lib\index.d.ts132929312770080000 0
 96C:\Users\user\Desktop\middleFrontend\parcel\node_modules\js-yaml\lib\js-yaml\type\js\function.js132717959139100000 0
@@ -2878,11 +2924,13 @@
 77C:\Users\user\Desktop\middleFrontend\parcel\node_modules\pascalcase\README.md132717959308750000 0
 76C:\Users\user\Desktop\middleFrontend\parcel\node_modules\parse-json\index.js132717959263010000 0
 85C:\Users\user\Desktop\middleFrontend\parcel\node_modules\define-property\node_modules133220834048947053 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\cb133220867331667389 1
 75C:\Users\user\Desktop\middleFrontend\parcel\node_modules\parse-json\license132717959263010000 0
 96C:\Users\user\Desktop\middleFrontend\parcel\node_modules\highlight.js\docs\maintainers-guide.rst133220834029050000 0
 92C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\runtime-js\src\helpers\node133220817951562635 1
 80C:\Users\user\Desktop\middleFrontend\parcel\node_modules\parse-json\package.json132717959263010000 0
 81C:\Users\user\Desktop\middleFrontend\parcel\node_modules\moment\dist\locale\mn.js133220834028980000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\39133220867330817389 1
 97C:\Users\user\Desktop\middleFrontend\parcel\node_modules\micromatch\node_modules\kind-of\index.js132717959228800000 0
 78C:\Users\user\Desktop\middleFrontend\parcel\node_modules\parent-module\license133220834028950000 0
 67C:\Users\user\Desktop\middleFrontend\parcel\node_modules\parcel\lib133220817939041553 1
@@ -2929,6 +2977,7 @@
 90C:\Users\user\Desktop\middleFrontend\parcel\node_modules\js-yaml\node_modules\.bin\esparse133220834078987058 0
 82C:\Users\user\Desktop\middleFrontend\parcel\node_modules\object-visit\package.json132717959332260000 0
 77C:\Users\user\Desktop\middleFrontend\parcel\node_modules\neo-async\forEach.js132717959172730000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\62133220867331127400 1
 76C:\Users\user\Desktop\middleFrontend\parcel\node_modules\object-copy\LICENSE132717959332390000 0
 81C:\Users\user\Desktop\middleFrontend\parcel\node_modules\nth-check\lib\parse.d.ts132979459893480000 0
 79C:\Users\user\Desktop\middleFrontend\parcel\node_modules\object-assign\index.js132717959086560000 0
@@ -2994,6 +3043,7 @@
 114C:\Users\user\Desktop\middleFrontend\parcel\node_modules\node-releases\data\release-schedule\release-schedule.json133220817840700000 0
 76C:\Users\user\Desktop\middleFrontend\parcel\node_modules\moment\locale\lb.js133220834028980000 0
 95C:\Users\user\Desktop\middleFrontend\parcel\node_modules\node-releases\data\processed\envs.json133220817840700000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\db133220867331717388 1
 119C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-web\package.json133220817830530000 0
 97C:\Users\user\Desktop\middleFrontend\parcel\node_modules\node-gyp-build-optional-packages\LICENSE133220817859000000 0
 88C:\Users\user\Desktop\middleFrontend\parcel\node_modules\highlight.js\scss\ir-black.scss133220834029050000 0
@@ -3066,6 +3116,7 @@
 78C:\Users\user\Desktop\middleFrontend\parcel\node_modules\neo-async\doWhilst.js132717959172730000 0
 79C:\Users\user\Desktop\middleFrontend\parcel\node_modules\neo-async\eachLimit.js132717959172730000 0
 76C:\Users\user\Desktop\middleFrontend\parcel\node_modules\neo-async\eachOf.js132717959172730000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\f9133220867331877398 1
 102C:\Users\user\Desktop\middleFrontend\parcel\node_modules\htmlnano\lib\modules\removeAttributeQuotes.js133220817838070000 0
 88C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\source-map\node_modules133220834076727068 1
 108C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\native-filesystem-api.js133220817841080000 0
@@ -3115,6 +3166,7 @@
 88C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\regions\SI.js133220817841080000 0
 80C:\Users\user\Desktop\middleFrontend\parcel\node_modules\neo-async\someSeries.js132717959172730000 0
 88C:\Users\user\Desktop\middleFrontend\parcel\node_modules\lodash.templatesettings\LICENSE132717959277210000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\c2133220867331637422 1
 76C:\Users\user\Desktop\middleFrontend\parcel\node_modules\.bin\node-gyp-build133220834081257060 0
 100C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\html5semantic.js133220817841080000 0
 87C:\Users\user\Desktop\middleFrontend\parcel\node_modules\css-select\lib\attributes.d.ts132943100113490000 0
@@ -3166,6 +3218,7 @@
 108C:\Users\user\Desktop\middleFrontend\parcel\node_modules\nanomatch\node_modules\define-property\CHANGELOG.md132717959233780000 0
 103C:\Users\user\Desktop\middleFrontend\parcel\node_modules\nanomatch\node_modules\define-property\LICENSE132717959233780000 0
 82C:\Users\user\Desktop\middleFrontend\parcel\node_modules\csso\lib\clean\Comment.js132717959264720000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\84133220867331337406 1
 86C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@swc\helpers\src\_extends.mjs133147387018750000 0
 90C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\u2f.js133220817841080000 0
 108C:\Users\user\Desktop\middleFrontend\parcel\node_modules\nanomatch\node_modules\define-property\package.json132717959233780000 0
@@ -3176,6 +3229,7 @@
 82C:\Users\user\Desktop\middleFrontend\parcel\node_modules\highlight.js\lib\index.js133220834029050000 0
 82C:\Users\user\Desktop\middleFrontend\parcel\node_modules\msgpackr-extract\index.js133220817843220000 0
 86C:\Users\user\Desktop\middleFrontend\parcel\node_modules\msgpackr-extract\node_modules133220834079507048 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\1d133220867330667390 1
 83C:\Users\user\Desktop\middleFrontend\parcel\node_modules\msgpackr-extract\README.md133220817843220000 0
 77C:\Users\user\Desktop\middleFrontend\parcel\node_modules\msgpackr-extract\src133220817938961533 1
 117C:\Users\user\Desktop\middleFrontend\parcel\node_modules\htmlnano\docs\versioned_sidebars\version-2.0.0-sidebars.json133220817838070000 0
@@ -3194,6 +3248,7 @@
 133C:\Users\user\Desktop\middleFrontend\parcel\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages-optional133220834079597064 0
 99C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\font-kerning.js133220817841080000 0
 71C:\Users\user\Desktop\middleFrontend\parcel\node_modules\csso\README.md132717959264720000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\1b133220867330657391 1
 129C:\Users\user\Desktop\middleFrontend\parcel\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages-test133220834079637077 0
 88C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\regions\UZ.js133220817841080000 0
 78C:\Users\user\Desktop\middleFrontend\parcel\node_modules\msgpackr\benchmark.md133220817833580000 0
@@ -3249,6 +3304,7 @@
 76C:\Users\user\Desktop\middleFrontend\parcel\node_modules\moment\locale\be.js133220834028980000 0
 148C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-false-glob\sub\a\index.js133220817852890000 0
 76C:\Users\user\Desktop\middleFrontend\parcel\node_modules\moment\package.json133220834028980000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\d0133220867331687405 1
 88C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\regions\NC.js133220817841080000 0
 67C:\Users\user\Desktop\middleFrontend\parcel\node_modules\moment\src133220834067807061 1
 90C:\Users\user\Desktop\middleFrontend\parcel\node_modules\lodash.templatesettings\README.md132717959277210000 0
@@ -3357,6 +3413,7 @@
 83C:\Users\user\Desktop\middleFrontend\parcel\node_modules\is-data-descriptor\LICENSE132717959307900000 0
 93C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\bigint.js133220817841080000 0
 80C:\Users\user\Desktop\middleFrontend\parcel\node_modules\moment\src\locale\sr.js133220834028980000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\6c133220867331207409 1
 80C:\Users\user\Desktop\middleFrontend\parcel\node_modules\moment\src\locale\ss.js133220834028980000 0
 80C:\Users\user\Desktop\middleFrontend\parcel\node_modules\moment\src\locale\ta.js133220834028980000 0
 101C:\Users\user\Desktop\middleFrontend\parcel\node_modules\array-sort\node_modules\kind-of\package.json132717959326360000 0
@@ -3374,6 +3431,7 @@
 131C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\node-resolver-core\test\fixture\packages\source-alias\package.json133220817852890000 0
 81C:\Users\user\Desktop\middleFrontend\parcel\node_modules\moment\src\locale\tzm.js133220834028980000 0
 79C:\Users\user\Desktop\middleFrontend\parcel\node_modules\htmlnano\.eslintignore133220817838070000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\69133220867331187406 1
 89C:\Users\user\Desktop\middleFrontend\parcel\node_modules\moment\src\lib\utils\defaults.js133220834028980000 0
 89C:\Users\user\Desktop\middleFrontend\parcel\node_modules\js-yaml\lib\js-yaml\exception.js132717959139100000 0
 83C:\Users\user\Desktop\middleFrontend\parcel\node_modules\moment\src\locale\ug-cn.js133220834028980000 0
@@ -3477,7 +3535,6 @@
 80C:\Users\user\Desktop\middleFrontend\parcel\node_modules\extend-shallow\index.js132717959280960000 0
 104C:\Users\user\Desktop\middleFrontend\parcel\node_modules\css-select\lib\pseudo-selectors\subselects.d.ts132943100113490000 0
 97C:\Users\user\Desktop\middleFrontend\parcel\node_modules\moment\src\lib\locale\pre-post-format.js133220834028980000 0
-91C:\Users\user\Desktop\middleFrontend\parcel\node_modules\moment\src\lib\locale\prototype.js133220834028980000 0
 87C:\Users\user\Desktop\middleFrontend\parcel\node_modules\moment\src\lib\duration\abs.js133220834028980000 0
 75C:\Users\user\Desktop\middleFrontend\parcel\node_modules\date.js\History.md133220834030930000 0
 90C:\Users\user\Desktop\middleFrontend\parcel\node_modules\moment\src\lib\duration\bubble.js133220834028980000 0
@@ -3585,6 +3642,9 @@
 76C:\Users\user\Desktop\middleFrontend\parcel\node_modules\moment\locale\sw.js133220834028980000 0
 77C:\Users\user\Desktop\middleFrontend\parcel\node_modules\extglob\lib\utils.js132717959234190000 0
 76C:\Users\user\Desktop\middleFrontend\parcel\node_modules\moment\locale\ta.js133220834028980000 0
+76C:\Users\user\Desktop\middleFrontend\parcel\node_modules\moment\locale\tk.js133220834028980000 0
+82C:\Users\user\Desktop\middleFrontend\parcel\node_modules\dotenv-expand\lib\main.js132717959096480000 0
+81C:\Users\user\Desktop\middleFrontend\parcel\node_modules\moment\dist\locale\gl.js133220834028980000 0
 79C:\Users\user\Desktop\middleFrontend\parcel\node_modules\moment\locale\tl-ph.js133220834028980000 0
 128C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-alias-glob133220817952481526 1
 77C:\Users\user\Desktop\middleFrontend\parcel\node_modules\moment\locale\tlh.js133220834028980000 0
@@ -3715,6 +3775,7 @@
 81C:\Users\user\Desktop\middleFrontend\parcel\node_modules\moment\dist\locale\ko.js133220834028980000 0
 98C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\namer-default\src\DefaultNamer.js133220817822540000 0
 90C:\Users\user\Desktop\middleFrontend\parcel\node_modules\highlight.js\lib\languages\cpp.js133220834029050000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\32133220867330787393 1
 81C:\Users\user\Desktop\middleFrontend\parcel\node_modules\moment\dist\locale\ky.js133220834028980000 0
 107C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@swc\helpers\lib\_class_private_field_loose_key.js133147387018750000 0
 81C:\Users\user\Desktop\middleFrontend\parcel\node_modules\moment\dist\locale\lt.js133220834028980000 0
@@ -3787,8 +3848,10 @@
 75C:\Users\user\Desktop\middleFrontend\parcel\node_modules\isarray\.npmignore132717959207240000 0
 84C:\Users\user\Desktop\middleFrontend\parcel\node_modules\moment\dist\locale\zh-tw.js133220834028980000 0
 90C:\Users\user\Desktop\middleFrontend\parcel\node_modules\highlight.js\lib\languages\fix.js133220834029050000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\45133220867330907396 1
 90C:\Users\user\Desktop\middleFrontend\parcel\node_modules\highlight.js\lib\languages\dns.js133220834029050000 0
 76C:\Users\user\Desktop\middleFrontend\parcel\node_modules\mixin-deep\index.js132717959308700000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\30133220867330777408 1
 88C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\regions\UA.js133220817841080000 0
 75C:\Users\user\Desktop\middleFrontend\parcel\node_modules\mixin-deep\LICENSE132717959308700000 0
 94C:\Users\user\Desktop\middleFrontend\parcel\node_modules\handlebars\dist\handlebars.amd.min.js132929312678100000 0
@@ -3823,6 +3886,7 @@
 109C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\transformer-js\node_modules\.bin\detect-libc133220834077457049 0
 76C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\packager-js133220817927441530 1
 73C:\Users\user\Desktop\middleFrontend\parcel\node_modules\minimist\LICENSE133220834024990000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\43133220867330887403 1
 85C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\transformer-html\lib133220817938151509 1
 75C:\Users\user\Desktop\middleFrontend\parcel\node_modules\minimist\README.md133220834024990000 0
 70C:\Users\user\Desktop\middleFrontend\parcel\node_modules\minimist\test133220834066577044 1
@@ -3870,6 +3934,7 @@
 101C:\Users\user\Desktop\middleFrontend\parcel\node_modules\micromatch\node_modules\kind-of\CHANGELOG.md132717959228800000 0
 74C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\graph\lib133220817937381520 1
 96C:\Users\user\Desktop\middleFrontend\parcel\node_modules\micromatch\node_modules\kind-of\LICENSE132717959228800000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\14133220867330617407 1
 101C:\Users\user\Desktop\middleFrontend\parcel\node_modules\micromatch\node_modules\kind-of\package.json132717959228800000 0
 88C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\regions\PM.js133220817841080000 0
 98C:\Users\user\Desktop\middleFrontend\parcel\node_modules\micromatch\node_modules\kind-of\README.md132717959228800000 0
@@ -3928,6 +3993,7 @@
 80C:\Users\user\Desktop\middleFrontend\parcel\node_modules\mdn-data\css\units.json132717959317290000 0
 77C:\Users\user\Desktop\middleFrontend\parcel\node_modules\isarray\package.json132717959207240000 0
 87C:\Users\user\Desktop\middleFrontend\parcel\node_modules\mdn-data\css\units.schema.json132717959317290000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\fa133220867331887439 1
 98C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\css-subgrid.js133220817841080000 0
 93C:\Users\user\Desktop\middleFrontend\parcel\node_modules\mdn-data\api\inheritance.schema.json132717959317290000 0
 79C:\Users\user\Desktop\middleFrontend\parcel\node_modules\map-visit\package.json132717959332180000 0
@@ -3966,6 +4032,7 @@
 66C:\Users\user\Desktop\middleFrontend\parcel\node_modules\lmdb\dist133220817934941524 1
 91C:\Users\user\Desktop\middleFrontend\parcel\node_modules\highlight.js\lib\languages\flix.js133220834029050000 0
 96C:\Users\user\Desktop\middleFrontend\parcel\node_modules\handlebars\dist\cjs\handlebars\compiler133220834073967069 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\6b133220867331197886 1
 80C:\Users\user\Desktop\middleFrontend\parcel\node_modules\csso\lib\clean\utils.js132717959264720000 0
 70C:\Users\user\Desktop\middleFrontend\parcel\node_modules\lmdb\level.js133220817839960000 0
 91C:\Users\user\Desktop\middleFrontend\parcel\node_modules\highlight.js\lib\languages\perl.js133220834029050000 0
@@ -4104,6 +4171,7 @@
 108C:\Users\user\Desktop\middleFrontend\parcel\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_drop.c133220817839960000 0
 108C:\Users\user\Desktop\middleFrontend\parcel\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_dump.1133220817839960000 0
 108C:\Users\user\Desktop\middleFrontend\parcel\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_load.1133220817839960000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\38133220867330817389 1
 108C:\Users\user\Desktop\middleFrontend\parcel\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_load.c133220817839960000 0
 88C:\Users\user\Desktop\middleFrontend\parcel\node_modules\handlebars-layouts\CHANGELOG.md133220834025140000 0
 108C:\Users\user\Desktop\middleFrontend\parcel\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_stat.1133220817839960000 0
@@ -4220,6 +4288,7 @@
 95C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\transformer-html\src\inline.js133220817828860000 0
 68C:\Users\user\Desktop\middleFrontend\parcel\node_modules\js-yaml\lib133220834066287068 1
 88C:\Users\user\Desktop\middleFrontend\parcel\node_modules\highlight.js\styles\monokai.css133220834029050000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\46133220867330907396 1
 104C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@jridgewell\gen-mapping\dist\gen-mapping.umd.js133070150698930000 0
 104C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\core\lib\requests\ParcelBuildRequest.js133220817820360000 0
 72C:\Users\user\Desktop\middleFrontend\parcel\node_modules\js-yaml\LICENSE132717959139100000 0
@@ -4312,6 +4381,7 @@
 76C:\Users\user\Desktop\middleFrontend\parcel\node_modules\htmlnano\index.d.ts133220817838070000 0
 89C:\Users\user\Desktop\middleFrontend\parcel\node_modules\highlight.js\scss\grayscale.scss133220834029050000 0
 103C:\Users\user\Desktop\middleFrontend\parcel\node_modules\handlebars\dist\amd\handlebars\helpers\with.js132929312678100000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\d8133220867331707386 1
 74C:\Users\user\Desktop\middleFrontend\parcel\node_modules\is-json\README.md133220817860950000 0
 78C:\Users\user\Desktop\middleFrontend\parcel\node_modules\is-json\test\index.js133220817860950000 0
 73C:\Users\user\Desktop\middleFrontend\parcel\node_modules\is-glob\index.js132826768348080000 0
@@ -4414,8 +4484,10 @@
 98C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\transformer-posthtml\node_modules133220834077727044 1
 75C:\Users\user\Desktop\middleFrontend\parcel\node_modules\htmlnano\README.md133220817838070000 0
 92C:\Users\user\Desktop\middleFrontend\parcel\node_modules\htmlnano\node_modules\.bin\svgo.cmd133220834078877073 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\c1133220867331637422 1
 88C:\Users\user\Desktop\middleFrontend\parcel\node_modules\htmlnano\lib\presets\ampSafe.js133220817838070000 0
 95C:\Users\user\Desktop\middleFrontend\parcel\node_modules\highlight.js\docs\building-testing.rst133220834029050000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\9c133220867331467395 1
 104C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\core\test\fixtures\plugins\node_modules133220817924861505 1
 87C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\hash\node_modules\.bin133220834075617061 1
 85C:\Users\user\Desktop\middleFrontend\parcel\node_modules\htmlnano\lib\presets\safe.js133220817838070000 0
@@ -4432,6 +4504,7 @@
 92C:\Users\user\Desktop\middleFrontend\parcel\node_modules\highlight.js\styles\school-book.css133220834029050000 0
 92C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\utils\src\parseCSSImport.js133220817823510000 0
 79C:\Users\user\Desktop\middleFrontend\parcel\node_modules\get-value\package.json132717959325540000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\5e133220867331107412 1
 91C:\Users\user\Desktop\middleFrontend\parcel\node_modules\htmlnano\lib\modules\minifyUrls.js133220817838070000 0
 78C:\Users\user\Desktop\middleFrontend\parcel\node_modules\array-unique\index.js132717959233680000 0
 83C:\Users\user\Desktop\middleFrontend\parcel\node_modules\htmlnano\docs\package.json133220817838070000 0
@@ -4469,6 +4542,7 @@
 78C:\Users\user\Desktop\middleFrontend\parcel\node_modules\html-tag\package.json133220834028300000 0
 99C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\css3-cursors.js133220817841080000 0
 99C:\Users\user\Desktop\middleFrontend\parcel\node_modules\html-tag\node_modules\kind-of\CHANGELOG.md132717959228800000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\b5133220867331587384 1
 107C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@babel\highlight\node_modules\ansi-styles\index.js132717959085580000 0
 95C:\Users\user\Desktop\middleFrontend\parcel\node_modules\html-tag\node_modules\kind-of\index.js132717959228800000 0
 94C:\Users\user\Desktop\middleFrontend\parcel\node_modules\html-tag\node_modules\kind-of\LICENSE132717959228800000 0
@@ -4494,6 +4568,7 @@
 99C:\Users\user\Desktop\middleFrontend\parcel\node_modules\highlight.js\styles\atelier-cave-light.css133220834029050000 0
 98C:\Users\user\Desktop\middleFrontend\parcel\node_modules\highlight.js\styles\atelier-dune-dark.css133220834029050000 0
 99C:\Users\user\Desktop\middleFrontend\parcel\node_modules\highlight.js\styles\atelier-dune-light.css133220834029050000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\81133220867331327394 1
 111C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\optimizer-image\parcel-image.darwin-arm64.node133220817822820000 0
 85C:\Users\user\Desktop\middleFrontend\parcel\node_modules\cosmiconfig\dist\Explorer.js133138438257270000 0
 79C:\Users\user\Desktop\middleFrontend\parcel\node_modules\escalade\dist\index.js132717959223040000 0
@@ -4558,6 +4633,7 @@
 96C:\Users\user\Desktop\middleFrontend\parcel\node_modules\highlight.js\styles\monokai-sublime.css133220834029050000 0
 90C:\Users\user\Desktop\middleFrontend\parcel\node_modules\highlight.js\styles\night-owl.css133220834029050000 0
 89C:\Users\user\Desktop\middleFrontend\parcel\node_modules\highlight.js\styles\obsidian.css133220834029050000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\9e133220867331467395 1
 90C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\packager-raw\package.json133220817825970000 0
 85C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\watcher\src\watchman133220817950411502 1
 94C:\Users\user\Desktop\middleFrontend\parcel\node_modules\highlight.js\styles\paraiso-light.css133220834029050000 0
@@ -4598,6 +4674,7 @@
 100C:\Users\user\Desktop\middleFrontend\parcel\node_modules\highlight.js\scss\atelier-estuary-dark.scss133220834029050000 0
 90C:\Users\user\Desktop\middleFrontend\parcel\node_modules\highlight.js\lib\languages\vim.js133220834029050000 0
 99C:\Users\user\Desktop\middleFrontend\parcel\node_modules\highlight.js\scss\atelier-forest-dark.scss133220834029050000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\b6133220867331597390 1
 74C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\core\test133220817936151515 1
 100C:\Users\user\Desktop\middleFrontend\parcel\node_modules\highlight.js\scss\atelier-forest-light.scss133220834029050000 0
 118C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\package-manager\test\validateModuleSpecifiers.test.js133220817820340000 0
@@ -4615,6 +4692,7 @@
 104C:\Users\user\Desktop\middleFrontend\parcel\node_modules\highlight.js\scss\atom-one-dark-reasonable.scss133220834029050000 0
 98C:\Users\user\Desktop\middleFrontend\parcel\node_modules\handlebars\lib\handlebars\compiler\ast.js132929312678100000 0
 92C:\Users\user\Desktop\middleFrontend\parcel\node_modules\highlight.js\scss\brown-papersq.png133220834029050000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\fd133220867331897393 1
 92C:\Users\user\Desktop\middleFrontend\parcel\node_modules\highlight.js\scss\color-brewer.scss133220834029050000 0
 87C:\Users\user\Desktop\middleFrontend\parcel\node_modules\highlight.js\scss\darcula.scss133220834029050000 0
 168C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-package-redirect-down\foo\bar\baz\real-bar.js133220817852890000 0
@@ -4622,6 +4700,7 @@
 87C:\Users\user\Desktop\middleFrontend\parcel\node_modules\highlight.js\scss\default.scss133220834029050000 0
 87C:\Users\user\Desktop\middleFrontend\parcel\node_modules\highlight.js\scss\dracula.scss133220834029050000 0
 83C:\Users\user\Desktop\middleFrontend\parcel\node_modules\highlight.js\scss\far.scss133220834029050000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\8f133220867331407388 1
 90C:\Users\user\Desktop\middleFrontend\parcel\node_modules\highlight.js\scss\foundation.scss133220834029050000 0
 78C:\Users\user\Desktop\middleFrontend\parcel\node_modules\front-matter\examples133220834063997069 1
 91C:\Users\user\Desktop\middleFrontend\parcel\node_modules\highlight.js\scss\github-gist.scss133220834029050000 0
@@ -4707,6 +4786,7 @@
 91C:\Users\user\Desktop\middleFrontend\parcel\node_modules\highlight.js\lib\languages\ebnf.js133220834029050000 0
 93C:\Users\user\Desktop\middleFrontend\parcel\node_modules\highlight.js\lib\languages\elixir.js133220834029050000 0
 98C:\Users\user\Desktop\middleFrontend\parcel\node_modules\highlight.js\lib\languages\erlang-repl.js133220834029050000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\23133220867330697414 1
 93C:\Users\user\Desktop\middleFrontend\parcel\node_modules\highlight.js\lib\languages\erlang.js133220834029050000 0
 92C:\Users\user\Desktop\middleFrontend\parcel\node_modules\highlight.js\lib\languages\excel.js133220834029050000 0
 91C:\Users\user\Desktop\middleFrontend\parcel\node_modules\highlight.js\lib\languages\gams.js133220834029050000 0
@@ -4742,6 +4822,7 @@
 90C:\Users\user\Desktop\middleFrontend\parcel\node_modules\highlight.js\lib\languages\lsl.js133220834029050000 0
 91C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\core\lib\public\Symbols.js133220817820360000 0
 90C:\Users\user\Desktop\middleFrontend\parcel\node_modules\highlight.js\lib\languages\lua.js133220834029050000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\21133220867330687392 1
 95C:\Users\user\Desktop\middleFrontend\parcel\node_modules\highlight.js\lib\languages\markdown.js133220834029050000 0
 105C:\Users\user\Desktop\middleFrontend\parcel\node_modules\handlebars\lib\handlebars\internal\wrapHelper.js132929312678100000 0
 90C:\Users\user\Desktop\middleFrontend\parcel\node_modules\handlebars-layouts\.gitattributes133220834025140000 0
@@ -4812,6 +4893,7 @@
 91C:\Users\user\Desktop\middleFrontend\parcel\node_modules\highlight.js\lib\languages\twig.js133220834029050000 0
 92C:\Users\user\Desktop\middleFrontend\parcel\node_modules\csso\lib\replace\property\border.js132717959264720000 0
 100C:\Users\user\Desktop\middleFrontend\parcel\node_modules\highlight.js\lib\languages\vbscript-html.js133220834029050000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\41133220867330877402 1
 95C:\Users\user\Desktop\middleFrontend\parcel\node_modules\highlight.js\lib\languages\vbscript.js133220834029050000 0
 93C:\Users\user\Desktop\middleFrontend\parcel\node_modules\handlebars-helpers\lib\comparison.js133220834025200000 0
 91C:\Users\user\Desktop\middleFrontend\parcel\node_modules\handlebars\lib\handlebars\utils.js132929312678100000 0
@@ -4922,6 +5004,7 @@
 111C:\Users\user\Desktop\middleFrontend\parcel\node_modules\handlebars-helpers\node_modules\is-number\package.json133087569764330000 0
 105C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\watcher\node_modules\fill-range\index.js132717959269950000 0
 117C:\Users\user\Desktop\middleFrontend\parcel\node_modules\handlebars-helpers\node_modules\define-property\package.json132717959281510000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\ac133220867331557382 1
 116C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\watcher\prebuilds\darwin-arm64\node.napi.glibc.node133220817834440000 0
 90C:\Users\user\Desktop\middleFrontend\parcel\node_modules\dom-serializer\lib\esm\index.d.ts132943100118550000 0
 114C:\Users\user\Desktop\middleFrontend\parcel\node_modules\handlebars-helpers\node_modules\define-property\README.md132717959281510000 0
@@ -4940,6 +5023,7 @@
 87C:\Users\user\Desktop\middleFrontend\parcel\node_modules\handlebars-helpers\lib\path.js133220834025200000 0
 101C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\serviceworkers.js133220817841080000 0
 88C:\Users\user\Desktop\middleFrontend\parcel\node_modules\handlebars-helpers\lib\regex.js133220834025200000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\7d133220867331307395 1
 89C:\Users\user\Desktop\middleFrontend\parcel\node_modules\handlebars-helpers\lib\string.js133220834025200000 0
 80C:\Users\user\Desktop\middleFrontend\parcel\node_modules\csso\lib\replace\Url.js132717959264720000 0
 94C:\Users\user\Desktop\middleFrontend\parcel\node_modules\handlebars-helpers\lib\utils\index.js133220834025200000 0
@@ -4965,10 +5049,12 @@
 107C:\Users\user\Desktop\middleFrontend\parcel\node_modules\handlebars\lib\handlebars\internal\proto-access.js132929312678100000 0
 97C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\watcher\src\windows\win_utils.hh133220817834440000 0
 99C:\Users\user\Desktop\middleFrontend\parcel\node_modules\handlebars\lib\handlebars\compiler\base.js132929312678100000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\a1133220867331497415 1
 141C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-false\src\index.js133220817852890000 0
 99C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\transforms2d.js133220817841080000 0
 78C:\Users\user\Desktop\middleFrontend\parcel\node_modules\css-tree\package.json132929317690590000 0
 114C:\Users\user\Desktop\middleFrontend\parcel\node_modules\handlebars\lib\handlebars\helpers\block-helper-missing.js132929312678100000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\11133220867330587388 1
 98C:\Users\user\Desktop\middleFrontend\parcel\node_modules\handlebars\lib\handlebars\helpers\each.js132929312678100000 0
 108C:\Users\user\Desktop\middleFrontend\parcel\node_modules\handlebars\lib\handlebars\helpers\helper-missing.js132929312678100000 0
 128C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-false133220817952601528 1
@@ -4992,6 +5078,7 @@
 98C:\Users\user\Desktop\middleFrontend\parcel\node_modules\handlebars\dist\cjs\handlebars\decorators133220834073777063 1
 94C:\Users\user\Desktop\middleFrontend\parcel\node_modules\electron-to-chromium\full-versions.js133220817841830000 0
 101C:\Users\user\Desktop\middleFrontend\parcel\node_modules\handlebars\dist\cjs\handlebars\decorators.js132929312678100000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\79133220867331287401 1
 100C:\Users\user\Desktop\middleFrontend\parcel\node_modules\handlebars\dist\cjs\handlebars\exception.js132929312678100000 0
 102C:\Users\user\Desktop\middleFrontend\parcel\node_modules\handlebars\dist\cjs\handlebars\no-conflict.js132929312678100000 0
 96C:\Users\user\Desktop\middleFrontend\parcel\node_modules\handlebars\dist\cjs\handlebars\utils.js132929312678100000 0
@@ -5011,6 +5098,7 @@
 97C:\Users\user\Desktop\middleFrontend\parcel\node_modules\handlebars\dist\amd\handlebars\logger.js132929312678100000 0
 111C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\input-autocomplete-onoff.js133220817841080000 0
 98C:\Users\user\Desktop\middleFrontend\parcel\node_modules\handlebars\dist\amd\handlebars\runtime.js132929312678100000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\59133220867331077400 1
 110C:\Users\user\Desktop\middleFrontend\parcel\node_modules\handlebars\dist\amd\handlebars\internal\wrapHelper.js132929312678100000 0
 91C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\core\lib\CommittedAsset.js133220817820360000 0
 102C:\Users\user\Desktop\middleFrontend\parcel\node_modules\handlebars\dist\amd\handlebars\helpers\log.js132929312678100000 0
@@ -5022,6 +5110,7 @@
 103C:\Users\user\Desktop\middleFrontend\parcel\node_modules\handlebars\dist\amd\handlebars\compiler\ast.js132929312678100000 0
 107C:\Users\user\Desktop\middleFrontend\parcel\node_modules\handlebars\dist\amd\handlebars\compiler\helpers.js132929312678100000 0
 100C:\Users\user\Desktop\middleFrontend\parcel\node_modules\electron-to-chromium\chromium-versions.json133220817841830000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\1f133220867330677389 1
 87C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\transformer-js\LICENSE133220817827010000 0
 119C:\Users\user\Desktop\middleFrontend\parcel\node_modules\handlebars\dist\amd\handlebars\compiler\javascript-compiler.js132929312678100000 0
 107C:\Users\user\Desktop\middleFrontend\parcel\node_modules\handlebars\dist\amd\handlebars\compiler\printer.js132929312678100000 0
@@ -5029,6 +5118,7 @@
 87C:\Users\user\Desktop\middleFrontend\parcel\node_modules\csso\lib\replace\Percentage.js132717959264720000 0
 118C:\Users\user\Desktop\middleFrontend\parcel\node_modules\handlebars\dist\amd\handlebars\compiler\whitespace-control.js132929312678100000 0
 81C:\Users\user\Desktop\middleFrontend\parcel\node_modules\gulp-header\changelog.md133116740059690000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\4c133220867330987423 1
 96C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\runtime-browser-hmr\lib\loaders133220817949561524 1
 77C:\Users\user\Desktop\middleFrontend\parcel\node_modules\gulp-header\index.js133116740059690000 0
 83C:\Users\user\Desktop\middleFrontend\parcel\node_modules\domutils\lib\querying.d.ts132929312818780000 0
@@ -5056,6 +5146,7 @@
 90C:\Users\user\Desktop\middleFrontend\parcel\node_modules\escape-string-regexp\package.json132717959085610000 0
 94C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@swc\helpers\src\_sliced_to_array.mjs133147387018750000 0
 71C:\Users\user\Desktop\middleFrontend\parcel\node_modules\glob\README.md132979459735740000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\80133220867331327394 1
 69C:\Users\user\Desktop\middleFrontend\parcel\node_modules\glob\sync.js132979459735740000 0
 87C:\Users\user\Desktop\middleFrontend\parcel\node_modules\escape-string-regexp\readme.md132717959085610000 0
 141C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-alias-glob\package.json133220817852890000 0
@@ -5090,6 +5181,7 @@
 99C:\Users\user\Desktop\middleFrontend\parcel\node_modules\front-matter\node_modules\.bin\js-yaml.cmd133220834078207061 0
 85C:\Users\user\Desktop\middleFrontend\parcel\node_modules\front-matter\examples\bom.md133220834025040000 0
 75C:\Users\user\Desktop\middleFrontend\parcel\node_modules\debug\src\debug.js132717959141520000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\07133220867330537390 1
 94C:\Users\user\Desktop\middleFrontend\parcel\node_modules\front-matter\examples\complex-yaml.md133220834025040000 0
 98C:\Users\user\Desktop\middleFrontend\parcel\node_modules\front-matter\examples\dashes-seperator.md133220834025040000 0
 94C:\Users\user\Desktop\middleFrontend\parcel\node_modules\front-matter\examples\missing-body.md133220834025040000 0
@@ -5171,6 +5263,7 @@
 86C:\Users\user\Desktop\middleFrontend\parcel\node_modules\entities\lib\maps\legacy.json132955271834200000 0
 100C:\Users\user\Desktop\middleFrontend\parcel\node_modules\entities\lib\generated\decode-data-xml.d.ts132955271834200000 0
 70C:\Users\user\Desktop\middleFrontend\parcel\node_modules\ent\decode.js133220834030140000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\a5133220867331517401 1
 69C:\Users\user\Desktop\middleFrontend\parcel\node_modules\ent\examples133220834063767066 1
 68C:\Users\user\Desktop\middleFrontend\parcel\node_modules\ent\LICENSE133220834030140000 0
 76C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\workers\lib133220817938721521 1
@@ -5245,12 +5338,14 @@
 78C:\Users\user\Desktop\middleFrontend\parcel\node_modules\detect-libc\README.md133116740093510000 0
 87C:\Users\user\Desktop\middleFrontend\parcel\node_modules\detect-libc\lib\detect-libc.js133116740093510000 0
 82C:\Users\user\Desktop\middleFrontend\parcel\node_modules\define-property\README.md132717959282020000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\63133220867331137383 1
 81C:\Users\user\Desktop\middleFrontend\parcel\node_modules\balanced-match\README.md132826768616740000 0
 108C:\Users\user\Desktop\middleFrontend\parcel\node_modules\define-property\node_modules\is-accessor-descriptor133220834058747054 1
 77C:\Users\user\Desktop\middleFrontend\parcel\node_modules\ansi-green\readme.md133220834034240000 0
 104C:\Users\user\Desktop\middleFrontend\parcel\node_modules\define-property\node_modules\is-data-descriptor133220834059377048 1
 81C:\Users\user\Desktop\middleFrontend\parcel\node_modules\css-what\lib\es\types.js132943100116980000 0
 99C:\Users\user\Desktop\middleFrontend\parcel\node_modules\define-property\node_modules\is-descriptor133220834059237422 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\00133220867330357497 1
 102C:\Users\user\Desktop\middleFrontend\parcel\node_modules\define-property\node_modules\kind-of\index.js132717959326360000 0
 81C:\Users\user\Desktop\middleFrontend\parcel\node_modules\csso\lib\clean\Atrule.js132717959264720000 0
 101C:\Users\user\Desktop\middleFrontend\parcel\node_modules\define-property\node_modules\kind-of\LICENSE132717959326360000 0
@@ -5313,6 +5408,7 @@
 69C:\Users\user\Desktop\middleFrontend\parcel\node_modules\csso\LICENSE132717959264720000 0
 77C:\Users\user\Desktop\middleFrontend\parcel\node_modules\csso\lib\restructure133220817948001529 1
 100C:\Users\user\Desktop\middleFrontend\parcel\node_modules\csso\lib\restructure\4-restructShorthand.js132717959264720000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\e6133220867331767390 1
 81C:\Users\user\Desktop\middleFrontend\parcel\node_modules\array-union\package.json132717959285950000 0
 98C:\Users\user\Desktop\middleFrontend\parcel\node_modules\csso\lib\restructure\8-restructRuleset.js132717959264720000 0
 91C:\Users\user\Desktop\middleFrontend\parcel\node_modules\cosmiconfig\dist\ExplorerSync.d.ts133138438257270000 0
@@ -5419,6 +5515,7 @@
 94C:\Users\user\Desktop\middleFrontend\parcel\node_modules\css-tree\lib\syntax\node\Dimension.js132929317690590000 0
 93C:\Users\user\Desktop\middleFrontend\parcel\node_modules\css-tree\lib\syntax\node\Function.js132929317690590000 0
 89C:\Users\user\Desktop\middleFrontend\parcel\node_modules\css-tree\lib\syntax\node\Hash.js132929317690590000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\ab133220867331547368 1
 74C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\fs-search133220834075437053 1
 95C:\Users\user\Desktop\middleFrontend\parcel\node_modules\css-tree\lib\syntax\node\IdSelector.js132929317690590000 0
 90C:\Users\user\Desktop\middleFrontend\parcel\node_modules\css-tree\lib\syntax\node\index.js132929317690590000 0
@@ -5432,8 +5529,10 @@
 93C:\Users\user\Desktop\middleFrontend\parcel\node_modules\css-tree\lib\syntax\node\Selector.js132929317690590000 0
 105C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@babel\highlight\node_modules\has-flag\readme.md132717959086040000 0
 91C:\Users\user\Desktop\middleFrontend\parcel\node_modules\css-tree\lib\syntax\node\String.js132929317690590000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\c9133220867331657392 1
 97C:\Users\user\Desktop\middleFrontend\parcel\node_modules\css-tree\lib\syntax\node\TypeSelector.js132929317690590000 0
 97C:\Users\user\Desktop\middleFrontend\parcel\node_modules\css-tree\lib\syntax\node\UnicodeRange.js132929317690590000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\99133220867331457401 1
 90C:\Users\user\Desktop\middleFrontend\parcel\node_modules\css-tree\lib\syntax\node\Value.js132929317690590000 0
 92C:\Users\user\Desktop\middleFrontend\parcel\node_modules\css-tree\lib\syntax\function\var.js132929317690590000 0
 92C:\Users\user\Desktop\middleFrontend\parcel\node_modules\css-tree\lib\syntax\config\lexer.js132929317690590000 0
@@ -5534,6 +5633,7 @@
 88C:\Users\user\Desktop\middleFrontend\parcel\node_modules\cosmiconfig\dist\types.d.ts.map133138438257270000 0
 82C:\Users\user\Desktop\middleFrontend\parcel\node_modules\cosmiconfig\dist\types.js133138438257270000 0
 86C:\Users\user\Desktop\middleFrontend\parcel\node_modules\cosmiconfig\dist\types.js.map133138438257270000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\87133220867331357385 1
 112C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@babel\highlight\node_modules\supports-color\browser.js132717959085760000 0
 81C:\Users\user\Desktop\middleFrontend\parcel\node_modules\core-util-is\lib\util.js132929312762430000 0
 81C:\Users\user\Desktop\middleFrontend\parcel\node_modules\copy-descriptor\index.js132717959334190000 0
@@ -5586,6 +5686,7 @@
 99C:\Users\user\Desktop\middleFrontend\parcel\node_modules\chrome-trace-event\dist\trace-event.js.map132929312686240000 0
 100C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\web-bluetooth.js133220817841080000 0
 73C:\Users\user\Desktop\middleFrontend\parcel\node_modules\chalk\index.d.ts132770310447470000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\68133220867331177396 1
 72C:\Users\user\Desktop\middleFrontend\parcel\node_modules\chalk\readme.md132770310447470000 0
 69C:\Users\user\Desktop\middleFrontend\parcel\node_modules\chalk\source133220817933251515 1
 78C:\Users\user\Desktop\middleFrontend\parcel\node_modules\chalk\source\index.js132770310447470000 0
@@ -5600,6 +5701,7 @@
 93C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\dist\unpacker\region.js133220817841080000 0
 90C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\dist\lib\statuses.js133220817841080000 0
 91C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\dist\lib\supported.js133220817841080000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\0f133220867330577381 1
 91C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\package-manager\index.d.ts133220817820340000 0
 84C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\agents.js133220817841080000 0
 86C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\browsers.js133220817841080000 0
@@ -5653,6 +5755,7 @@
 111C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\core\test\fixtures\targets-default-distdir-one133220817951521532 1
 88C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\regions\CY.js133220817841080000 0
 88C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\regions\CZ.js133220817841080000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\44133220867330887403 1
 110C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\optimizer-terser\node_modules\.bin\terser.cmd133220834076567062 0
 88C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\regions\DE.js133220817841080000 0
 88C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\regions\DJ.js133220817841080000 0
@@ -5711,6 +5814,7 @@
 98C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\core\test\fixtures\custom-targets133220817951461534 1
 88C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\regions\KN.js133220817841080000 0
 88C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\regions\KZ.js133220817841080000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\ca133220867331657392 1
 88C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\regions\LA.js133220817841080000 0
 88C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\regions\LB.js133220817841080000 0
 88C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\regions\LC.js133220817841080000 0
@@ -5807,6 +5911,7 @@
 103C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\addeventlistener.js133220817841080000 0
 102C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\runtime-js\src\helpers\.eslintrc.json133220817825470000 0
 107C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\alternate-stylesheet.js133220817841080000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\94133220867331427400 1
 103C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\array-find-index.js133220817841080000 0
 101C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\array-includes.js133220817841080000 0
 92C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\asmjs.js133220817841080000 0
@@ -5818,12 +5923,14 @@
 95C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\auxclick.js133220817841080000 0
 90C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\av1.js133220817841080000 0
 91C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\avif.js133220817841080000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\05133220867330387379 1
 95C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\runtime-js\lib\helpers\browser133220817951641527 1
 108C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\background-attachment.js133220817841080000 0
 106C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\background-img-opts.js133220817841080000 0
 110C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\background-position-x-y.js133220817841080000 0
 116C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\background-repeat-round-space.js133220817841080000 0
 102C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\background-sync.js133220817841080000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\a8133220867331537390 1
 101C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\battery-status.js133220817841080000 0
 124C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\@scope\pkg\foo133220817952861547 1
 103C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\beforeafterprint.js133220817841080000 0
@@ -5856,6 +5963,7 @@
 99C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\cryptography.js133220817841080000 0
 100C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\readonly-attr.js133220817841080000 0
 99C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\css-autofill.js133220817841080000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\d2133220867331687405 1
 109C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\css-background-offsets.js133220817841080000 0
 110C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\css-backgroundblendmode.js133220817841080000 0
 131C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-web\parcel_sourcemap_wasm.js133220817830530000 0
@@ -5882,6 +5990,7 @@
 107C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\css-element-function.js133220817841080000 0
 103C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\css-env-function.js133220817841080000 0
 101C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\css-exclusions.js133220817841080000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\8e133220867331407388 1
 105C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\css-featurequeries.js133220817841080000 0
 106C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\css-filter-function.js133220817841080000 0
 98C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\css-filters.js133220817841080000 0
@@ -5920,8 +6029,10 @@
 104C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\loading-lazy-attr.js133220817841080000 0
 106C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\css-optional-pseudo.js133220817841080000 0
 106C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\css-overflow-anchor.js133220817841080000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\52133220867331037403 1
 99C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\css-overflow.js133220817841080000 0
 102C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\css-paged-media.js133220817841080000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\fb133220867331887439 1
 100C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\css-paint-api.js133220817841080000 0
 108C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\css-placeholder-shown.js133220817841080000 0
 102C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\css-placeholder.js133220817841080000 0
@@ -5948,6 +6059,7 @@
 103C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\css-unicode-bidi.js133220817841080000 0
 76C:\Users\user\Desktop\middleFrontend\parcel\node_modules\arr-union\README.md132717959326030000 0
 102C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\css-unset-value.js133220817841080000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\17133220867330627408 1
 100C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\css-variables.js133220817841080000 0
 100C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\css-when-else.js133220817841080000 0
 105C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\css-widows-orphans.js133220817841080000 0
@@ -5980,6 +6092,7 @@
 102C:\Users\user\Desktop\middleFrontend\parcel\node_modules\abortcontroller-polyfill\dist\umd-polyfill.js133220817830550000 0
 96C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\dom-range.js133220817841080000 0
 103C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\domcontentloaded.js133220817841080000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\73133220867331257389 1
 96C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\dommatrix.js133220817841080000 0
 115C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\core\test\fixtures\library-scopehoist\package.json133220817820360000 0
 94C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@swc\helpers\src\_async_generator.mjs133147387018750000 0
@@ -6014,11 +6127,13 @@
 76C:\Users\user\Desktop\middleFrontend\parcel\node_modules\array-uniq\index.js132717959313590000 0
 103C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\font-size-adjust.js133220817841080000 0
 98C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\font-smooth.js133220817841080000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\42133220867330877402 1
 105C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\font-unicode-range.js133220817841080000 0
 110C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\font-variant-alternates.js133220817841080000 0
 95C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\fontface.js133220817841080000 0
 101C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\form-attribute.js133220817841080000 0
 109C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\form-submit-attributes.js133220817841080000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\c0133220867331637422 1
 102C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\form-validation.js133220817841080000 0
 92C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\forms.js133220817841080000 0
 94C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\gamepad.js133220817841080000 0
@@ -6090,6 +6205,7 @@
 105C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\link-rel-prerender.js133220817841080000 0
 100C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\localecompare.js133220817841080000 0
 99C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\magnetometer.js133220817841080000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\37133220867330807400 1
 93C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\mathml.js133220817841080000 0
 103C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@swc\helpers\src\_class_private_field_init.mjs133147387018750000 0
 96C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\maxlength.js133220817841080000 0
@@ -6135,6 +6251,7 @@
 95C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\progress.js133220817841080000 0
 102C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\promise-finally.js133220817841080000 0
 92C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\proxy.js133220817841080000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\7e133220867331317412 1
 95C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\push-api.js133220817841080000 0
 110C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\registerprotocolhandler.js133220817841080000 0
 99C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\rel-noopener.js133220817841080000 0
@@ -6173,6 +6290,7 @@
 95C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\template.js133220817841080000 0
 95C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\temporal.js133220817841080000 0
 95C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\testfeat.js133220817841080000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\8c133220867331397399 1
 100C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\text-emphasis.js133220817841080000 0
 98C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\text-stroke.js133220817841080000 0
 93C:\Users\user\Desktop\middleFrontend\parcel\node_modules\caniuse-lite\data\features\tls1-2.js133220817841080000 0
@@ -6220,6 +6338,7 @@
 77C:\Users\user\Desktop\middleFrontend\parcel\node_modules\buffer-from\index.js132929312756210000 0
 76C:\Users\user\Desktop\middleFrontend\parcel\node_modules\buffer-from\LICENSE132929312756210000 0
 78C:\Users\user\Desktop\middleFrontend\parcel\node_modules\buffer-from\readme.md132929312756210000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\82133220867331337406 1
 80C:\Users\user\Desktop\middleFrontend\parcel\node_modules\browserslist\browser.js133220817832660000 0
 76C:\Users\user\Desktop\middleFrontend\parcel\node_modules\browserslist\cli.js133220817832660000 0
 80C:\Users\user\Desktop\middleFrontend\parcel\node_modules\browserslist\error.d.ts133220817832660000 0
@@ -6247,6 +6366,7 @@
 76C:\Users\user\Desktop\middleFrontend\parcel\node_modules\base-x\node_modules133220834048577091 1
 95C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\transformer-babel\src\utils.js133220817827320000 0
 97C:\Users\user\Desktop\middleFrontend\parcel\node_modules\base-x\node_modules\safe-buffer\index.js132717959279130000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\5f133220867331117424 1
 96C:\Users\user\Desktop\middleFrontend\parcel\node_modules\base-x\node_modules\safe-buffer\LICENSE132717959279130000 0
 101C:\Users\user\Desktop\middleFrontend\parcel\node_modules\base-x\node_modules\safe-buffer\package.json132717959279130000 0
 98C:\Users\user\Desktop\middleFrontend\parcel\node_modules\base-x\node_modules\safe-buffer\README.md132717959279130000 0
@@ -6285,6 +6405,7 @@
 98C:\Users\user\Desktop\middleFrontend\parcel\node_modules\array-sort\node_modules\kind-of\README.md132717959326360000 0
 74C:\Users\user\Desktop\middleFrontend\parcel\node_modules\arr-union\LICENSE132717959326030000 0
 81C:\Users\user\Desktop\middleFrontend\parcel\node_modules\arr-flatten\package.json132717959280740000 0
+89C:\Users\user\Desktop\middleFrontend\parcel\.cache\51\3237c6cff9dafcb1db77c5d6a622df.json133220867331937398 0
 130C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-alias\bar.js133220817852890000 0
 74C:\Users\user\Desktop\middleFrontend\parcel\node_modules\arr-diff\index.js132717959233530000 0
 78C:\Users\user\Desktop\middleFrontend\parcel\node_modules\arr-diff\package.json132717959233530000 0
@@ -6345,6 +6466,7 @@
 75C:\Users\user\Desktop\middleFrontend\parcel\node_modules\ansi-reset\LICENSE133220834036710000 0
 77C:\Users\user\Desktop\middleFrontend\parcel\node_modules\ansi-reset\readme.md133220834036710000 0
 73C:\Users\user\Desktop\middleFrontend\parcel\node_modules\ansi-red\LICENSE133116740005440000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\78133220867331287401 1
 78C:\Users\user\Desktop\middleFrontend\parcel\node_modules\ansi-red\package.json133116740005440000 0
 109C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\package-manager\node_modules\.bin\semver.cmd133220834076687067 0
 79C:\Users\user\Desktop\middleFrontend\parcel\node_modules\ansi-magenta\readme.md133220834036170000 0
@@ -6375,10 +6497,12 @@
 107C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\utils\test\replaceBundleReferences.test.js133220817823510000 0
 80C:\Users\user\Desktop\middleFrontend\parcel\node_modules\ansi-black\package.json133220834035880000 0
 77C:\Users\user\Desktop\middleFrontend\parcel\node_modules\ansi-black\readme.md133220834035880000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\19133220867330637390 1
 78C:\Users\user\Desktop\middleFrontend\parcel\node_modules\ansi-bgyellow\LICENSE133220834035220000 0
 80C:\Users\user\Desktop\middleFrontend\parcel\node_modules\ansi-bgyellow\readme.md133220834035220000 0
 78C:\Users\user\Desktop\middleFrontend\parcel\node_modules\ansi-bgwhite\index.js133220834035200000 0
 77C:\Users\user\Desktop\middleFrontend\parcel\node_modules\ansi-bgwhite\LICENSE133220834035200000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\4b133220867330977399 1
 82C:\Users\user\Desktop\middleFrontend\parcel\node_modules\ansi-bgwhite\package.json133220834035200000 0
 76C:\Users\user\Desktop\middleFrontend\parcel\node_modules\ansi-bgred\index.js133220834034940000 0
 95C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\transformer-image\package.json133220817829150000 0
@@ -6402,6 +6526,7 @@
 78C:\Users\user\Desktop\middleFrontend\parcel\node_modules\acorn\dist\acorn.d.ts133220817856350000 0
 76C:\Users\user\Desktop\middleFrontend\parcel\node_modules\acorn\dist\acorn.js133220817856350000 0
 77C:\Users\user\Desktop\middleFrontend\parcel\node_modules\acorn\dist\acorn.mjs133220817856350000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\6e133220867331217418 1
 82C:\Users\user\Desktop\middleFrontend\parcel\node_modules\acorn\dist\acorn.mjs.d.ts133220817856350000 0
 74C:\Users\user\Desktop\middleFrontend\parcel\node_modules\acorn\dist\bin.js133220817856350000 0
 94C:\Users\user\Desktop\middleFrontend\parcel\node_modules\abortcontroller-polyfill\package.json133220817830550000 0
@@ -6431,7 +6556,9 @@
 108C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@swc\helpers\src\_class_apply_descriptor_update.mjs133147387018750000 0
 108C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\runtime-js\src\helpers\browser\js-loader.js133220817825470000 0
 109C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@swc\helpers\src\_class_extract_field_descriptor.mjs133147387018750000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\e4133220867331757392 1
 110C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@swc\helpers\src\_class_private_field_destructure.mjs133147387018750000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\10133220867330587388 1
 102C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@swc\helpers\src\_class_private_field_get.mjs133147387018750000 0
 122C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\core\test\fixtures\library-custom-scopehoist\package.json133220817820360000 0
 109C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@swc\helpers\src\_class_private_field_loose_base.mjs133147387018750000 0
@@ -6439,6 +6566,7 @@
 108C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@swc\helpers\src\_class_private_field_loose_key.mjs133147387018750000 0
 102C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@swc\helpers\src\_class_private_field_set.mjs133147387018750000 0
 105C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@swc\helpers\src\_class_private_field_update.mjs133147387018750000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\bd133220867331627394 1
 82C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@babel\code-frame\LICENSE133070150593130000 0
 104C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@swc\helpers\src\_class_private_method_init.mjs133147387018750000 0
 95C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\core\src\public\BundleGraph.js133220817820360000 0
@@ -6499,6 +6627,7 @@
 94C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@swc\helpers\lib\_class_call_check.js133147387018750000 0
 111C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@swc\helpers\lib\_class_check_private_static_access.js133147387018750000 0
 98C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@swc\helpers\lib\_class_name_tdz_error.js133147387018750000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\5b133220867331087407 1
 101C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@swc\helpers\lib\_class_private_field_get.js133147387018750000 0
 112C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\core\test\fixtures\targets-default-distdir-none133220817951501529 1
 108C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@swc\helpers\lib\_class_private_field_loose_base.js133147387018750000 0
@@ -6513,6 +6642,7 @@
 89C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@swc\helpers\lib\_export_star.js133147387018750000 0
 85C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@swc\helpers\lib\_extends.js133147387018750000 0
 86C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@swc\helpers\lib\_inherits.js133147387018750000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\72133220867331237412 1
 104C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@swc\helpers\lib\_initializer_warning_helper.js133147387018750000 0
 102C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@swc\helpers\lib\_interop_require_wildcard.js133147387018750000 0
 96C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@swc\helpers\lib\_is_native_function.js133147387018750000 0
@@ -6642,6 +6772,7 @@
 113C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\watcher\node_modules\to-regex-range\package.json132717959293890000 0
 98C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\reporter-dev-server\src\templates133220817949551509 1
 110C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\watcher\node_modules\to-regex-range\README.md132717959293890000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\25133220867330697414 1
 105C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\watcher\node_modules\micromatch\index.js132929312683250000 0
 109C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\watcher\node_modules\micromatch\package.json132929312683250000 0
 106C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\watcher\node_modules\micromatch\README.md132929312683250000 0
@@ -6775,6 +6906,7 @@
 89C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\transformer-html\LICENSE133220817828860000 0
 94C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\transformer-html\node_modules133220834077177068 1
 104C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\transformer-html\src\HTMLTransformer.js133220817828860000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\d1133220867331687405 1
 106C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\transformer-html\node_modules\.bin\semver133220834077237067 0
 110C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\transformer-html\node_modules\.bin\semver.cmd133220834077237067 0
 101C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\transformer-html\lib\dependencies.js133220817828860000 0
@@ -6815,6 +6947,7 @@
 132C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-node\parcel_sourcemap_wasm.js133220817830530000 0
 137C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-node\parcel_sourcemap_wasm_bg.wasm133220817830530000 0
 107C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts133220817950321527 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\c7133220867331647393 1
 106C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\source-map\parcel_sourcemap_node\build.js133220817830530000 0
 101C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\source-map\parcel_sourcemap_node\src133220817950261516 1
 108C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\source-map\parcel_sourcemap_node\src\lib.rs133220817830530000 0
@@ -6822,6 +6955,7 @@
 133C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.win32-x64-msvc.node133220817830530000 0
 104C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@jridgewell\trace-mapping\dist\types\types.d.ts133138438258070000 0
 93C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\source-map\dist\node.js.flow133220817830530000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\12133220867330597384 1
 94C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\source-map\dist\types.js.flow133220817830530000 0
 89C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\source-map\dist\utils.js133220817830530000 0
 101C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\source-map\dist\wasm-bindings-web.js133220817830530000 0
@@ -6850,6 +6984,7 @@
 110C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\runtime-js\lib\helpers\browser\wasm-loader.js133220817825470000 0
 88C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\runtime-browser-hmr\src133220817937931534 1
 96C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\runtime-browser-hmr\src\loaders133220817949571529 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\65133220867331147411 1
 111C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\runtime-browser-hmr\src\loaders\hmr-runtime.js133220817825900000 0
 102C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\runtime-browser-hmr\lib\HMRRuntime.js133220817825900000 0
 138C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-alias\foo.js133220817852890000 0
@@ -6935,6 +7070,7 @@
 99C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\optimizer-terser\node_modules\.bin133220834076557044 1
 83C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\optimizer-svgo\lib133220817937791526 1
 87C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\optimizer-svgo\LICENSE133220817823230000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\bf133220867331627394 1
 98C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\optimizer-css\lib\CSSOptimizer.js133220817822790000 0
 92C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\optimizer-svgo\node_modules133220834076397042 1
 100C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\optimizer-svgo\src\SVGOOptimizer.js133220817823230000 0
@@ -7035,6 +7171,7 @@
 82C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\namer-default\lib133220817937541503 1
 91C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\namer-default\package.json133220817822540000 0
 82C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\namer-default\src133220817937541503 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\0c133220867330567377 1
 71C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\fs\lib133220817937401521 1
 82C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\markdown-ansi\lib133220817937511520 1
 71C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\fs\src133220817937501504 1
@@ -7103,6 +7240,7 @@
 82C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\core\package.json133220817820360000 0
 73C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\core\src133220817936061521 1
 95C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\core\test\EntryRequest.test.js133220817820360000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\2d133220867330747390 1
 94C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\core\test\Environment.test.js133220817820360000 0
 95C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\core\test\ParcelConfig.test.js133220817820360000 0
 102C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\core\test\ParcelConfigRequest.test.js133220817820360000 0
@@ -7136,6 +7274,7 @@
 118C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\core\test\fixtures\invalid-target-source-not-file\src133220817952391744 1
 126C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\core\test\fixtures\invalid-target-source-missing\package.json133220817820360000 0
 119C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\core\test\fixtures\invalid-source-missing\package.json133220817820360000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\f6133220867331857393 1
 114C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\core\test\fixtures\duplicate-targets\package.json133220817820360000 0
 119C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\core\test\fixtures\custom-format-mismatch\package.json133220817820360000 0
 117C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\core\test\fixtures\config-plugin-not-found\.parcelrc133220817820360000 0
@@ -7160,6 +7299,7 @@
 93C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\core\src\loadParcelPlugin.js133220817820360000 0
 91C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\core\src\PackagerRunner.js133220817820360000 0
 83C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\core\src\Parcel.js133220817820360000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\74133220867331257389 1
 80C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\core\src\public133220817949521534 1
 82C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\core\src\requests133220817949461515 1
 93C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\core\src\summarizeRequest.js133220817820360000 0
@@ -7181,6 +7321,7 @@
 98C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\core\node_modules\.bin\semver.cmd133220834075427088 0
 86C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\core\lib\constants.js133220817820360000 0
 87C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\core\lib\Dependency.js133220817820360000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\96133220867331437386 1
 88C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\core\lib\Environment.js133220817820360000 0
 82C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\core\lib\index.js133220817820360000 0
 91C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\core\lib\InternalConfig.js133220817820360000 0
@@ -7197,6 +7338,7 @@
 99C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\core\lib\requests\TargetRequest.js133220817820360000 0
 106C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@jridgewell\trace-mapping\dist\types\any-map.d.ts133138438258070000 0
 104C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\core\lib\requests\WriteBundleRequest.js133220817820360000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\27133220867330717406 1
 89C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\core\lib\public\Asset.js133220817820360000 0
 95C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\core\lib\public\BundleGraph.js133220817820360000 0
 95C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\core\lib\public\BundleGroup.js133220817820360000 0
@@ -7223,6 +7365,7 @@
 83C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\cache\src\index.js133220817830410000 0
 87C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\cache\src\LMDBCache.js133220817830410000 0
 85C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\cache\lib\FSCache.js133220817830410000 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\1e133220867330667390 1
 86C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\cache\lib\IDBCache.js133220817830410000 0
 83C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\cache\lib\index.js133220817830410000 0
 87C:\Users\user\Desktop\middleFrontend\parcel\node_modules\@parcel\cache\lib\LMDBCache.js133220817830410000 0
@@ -7339,5 +7482,121 @@
 72C:\Users\user\Desktop\middleFrontend\parcel\node_modules\.bin\semver.cmd133220834081477064 0
 66C:\Users\user\Desktop\middleFrontend\parcel\node_modules\.bin\svgo133220834081537032 0
 72C:\Users\user\Desktop\middleFrontend\parcel\node_modules\.bin\terser.cmd133220834081597045 0
-66C:\Users\user\Desktop\middleFrontend\parcel\dist\index.975ef6c8.js133220866342732945 0
+66C:\Users\user\Desktop\middleFrontend\parcel\dist\index.975ef6c8.js133220883836012423 0
+58C:\Users\user\Desktop\middleFrontend\parcel\dist\index.hbs133220883566311980 0
 59C:\Users\user\Desktop\middleFrontend\parcel\dist\index.html133220866342233038 0
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\01133220867330367384 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\03133220867330377391 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\04133220867330377391 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\06133220867330447397 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\08133220867330537390 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\09133220867330547406 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\0a133220867330547406 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\0d133220867330567377 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\0e133220867330577381 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\13133220867330607410 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\15133220867330617407 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\16133220867330627408 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\18133220867330637390 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\1a133220867330647395 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\20133220867330677389 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\24133220867330697414 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\26133220867330707383 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\29133220867330727446 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\2a133220867330727446 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\2b133220867330737384 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\2e133220867330767422 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\31133220867330777408 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\35133220867330797403 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\36133220867330807400 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\3b133220867330827393 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\3d133220867330847404 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\47133220867330947399 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\48133220867330957399 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\49133220867330967408 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\4a133220867330967408 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\4d133220867330987423 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\50133220867331007417 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\51133220867331927421 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\53133220867331047409 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\54133220867331047409 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\55133220867331057399 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\56133220867331057399 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\57133220867331067407 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\58133220867331077400 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\5c133220867331097404 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\5d133220867331097404 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\60133220867331117424 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\61133220867331117424 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\66133220867331157410 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\67133220867331167398 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\6a133220867331197886 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\6d133220867331207409 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\70133220867331227408 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\75133220867331267393 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\76133220867331267393 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\7b133220867331297411 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\7c133220867331307395 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\7f133220867331317412 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\86133220867331347409 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\89133220867331367411 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\8a133220867331387397 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\8b133220867331387397 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\8d133220867331397399 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\90133220867331417389 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\91133220867331417389 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\92133220867331427400 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\93133220867331427400 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\95133220867331437386 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\97133220867331447416 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\98133220867331447416 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\9b133220867331467395 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\9d133220867331467395 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\a3133220867331507400 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\a4133220867331517401 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\a6133220867331527406 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\a7133220867331527406 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\a9133220867331537390 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\aa133220867331547368 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\ad133220867331557382 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\ae133220867331557382 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\b0133220867331567398 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\b2133220867331577404 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\b4133220867331587384 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\b8133220867331597390 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\b9133220867331607397 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\bb133220867331617398 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\c3133220867331637422 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\c4133220867331647393 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\c5133220867331647393 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\c6133220867331647393 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\c8133220867331657392 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\cc133220867331667389 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\cd133220867331667389 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\ce133220867331677399 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\cf133220867331677399 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\d3133220867331687405 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\d4133220867331697388 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\d6133220867331697388 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\d7133220867331707386 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\d9133220867331707386 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\dc133220867331717388 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\df133220867331727387 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\e0133220867331737405 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\e1133220867331737405 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\e2133220867331737405 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\e3133220867331747403 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\e5133220867331757392 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\e7133220867331777397 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\e9133220867331787410 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\ea133220867331787410 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\eb133220867331797420 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\ed133220867331807421 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\ee133220867331807421 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\ef133220867331817396 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\f0133220867331817396 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\f1133220867331827384 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\f2133220867331827384 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\f3133220867331837398 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\fe133220867331907404 1
+53C:\Users\user\Desktop\middleFrontend\parcel\.cache\ff133220867331917421 1
