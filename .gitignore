@@ -31,6 +31,8 @@ cache
 *.pem
 *.crt
 
+dist
+
 # misc
 .DS_Store
 .env
