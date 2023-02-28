@@ -1,7 +1,7 @@
 {
   "name": "parcel",
   "version": "1.0.0",
-  "main": "index.html",
+  "main": "index.hbs",
   "license": "MIT",
   "scripts": {
     "dev": "parcel index.hbs",
